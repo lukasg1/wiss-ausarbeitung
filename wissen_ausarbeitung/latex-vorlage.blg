@@ -1,0 +1,25 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'latex-vorlage.blg'
+[140] biber-MSWIN64:340> INFO - === 
+[197] Biber.pm:419> INFO - Reading 'latex-vorlage.bcf'
+[320] Biber.pm:979> INFO - Found 38 citekeys in bib section 0
+[339] Biber.pm:4419> INFO - Processing section 0
+[355] Biber.pm:4610> INFO - Looking for bibtex file 'includes/literatur.bib' for section 0
+[412] bibtex.pm:1713> INFO - LaTeX decoding ...
+[496] bibtex.pm:1519> INFO - Found BibTeX data source 'includes/literatur.bib'
+[770] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[770] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[770] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[770] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[814] bbl.pm:660> INFO - Writing 'latex-vorlage.bbl' with encoding 'UTF-8'
+[849] bbl.pm:763> INFO - Output to latex-vorlage.bbl
+[849] Biber.pm:131> WARN - ISBN '978-3-658-10720-8 978-3-658-10721-5' in entry 'gollMitScrumGewuenschten2015' is invalid - run biber with '--validate_datamodel' for details.
+[849] Biber.pm:131> WARN - ISBN '978-3-658-37030-5 978-3-658-37031-2' in entry 'holzbaurNachhaltigesProjektmanagementVerantwortlichkeit2022' is invalid - run biber with '--validate_datamodel' for details.
+[849] Biber.pm:131> WARN - ISBN '978-3-662-65472-9 978-3-662-65473-6' in entry 'kusterHandbuchProjektmanagementAgil2022' is invalid - run biber with '--validate_datamodel' for details.
+[849] Biber.pm:131> WARN - ISBN '978-3-662-56799-9 978-3-662-56800-2' in entry 'kusay-merkleAgilesProjektmanagementIm2018' is invalid - run biber with '--validate_datamodel' for details.
+[849] Biber.pm:131> WARN - ISBN '978-3-8348-0469-3 978-3-8348-9520-2' in entry 'gadatschGrundkursITProjektcontrollingGrundlagen2008' is invalid - run biber with '--validate_datamodel' for details.
+[849] Biber.pm:131> WARN - ISBN '978-3-409-12547-5 978-3-8349-9102-7' in entry 'hobelGABLERBUSINESSWISSENAZ2006' is invalid - run biber with '--validate_datamodel' for details.
+[849] Biber.pm:131> WARN - ISBN '978-3-658-12003-0 978-3-658-12004-7' in entry 'koenigsITRisikomanagementMitSystem2017' is invalid - run biber with '--validate_datamodel' for details.
+[849] Biber.pm:131> WARN - ISBN '978-3-658-04429-9 978-3-658-04430-5' in entry 'brandstaeterAgileITProjekteErfolgreich2013' is invalid - run biber with '--validate_datamodel' for details.
+[849] Biber.pm:131> WARN - ISBN '978-3-531-17809-7 978-3-531-18939-0' in entry 'baurHandbuchMethodenEmpirischen2014' is invalid - run biber with '--validate_datamodel' for details.
+[850] Biber.pm:133> INFO - WARNINGS: 9

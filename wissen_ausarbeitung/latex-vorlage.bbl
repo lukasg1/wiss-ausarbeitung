@@ -1,0 +1,2324 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{agambaExploringFacultyIntegration2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=afe59f23694979a4b08552dce7727246}{%
+           family={Agamba},
+           familyi={A\bibinitperiod},
+           given={Joachim\bibnamedelima Jack},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {ProQuest Dissertations Publishing}%
+      }
+      \strng{namehash}{afe59f23694979a4b08552dce7727246}
+      \strng{fullhash}{afe59f23694979a4b08552dce7727246}
+      \strng{bibnamehash}{afe59f23694979a4b08552dce7727246}
+      \strng{authorbibnamehash}{afe59f23694979a4b08552dce7727246}
+      \strng{authornamehash}{afe59f23694979a4b08552dce7727246}
+      \strng{authorfullhash}{afe59f23694979a4b08552dce7727246}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Higher education institutions have been noted to be lacking in increasing the utilization of technology for student achievement. The lack of motivation by individual faculty members to optimize their use of technology has been identified as one of the main problems affecting appropriate technology use. The purpose of this research was to determine whether theory-based training on performance objectives, Moodle resource integration, and their alignment, will affect the frequency and quality of integrating those resources. Faculty in a health professions department at a Carnegie-classified, doctoral research university-high in the intermountain west region were recruited to participate in this study. The study examined faculty Moodle course sites following training in developing performance objectives and aligning those objectives with specific Moodle resources, and obtained faculty interviews on barriers and concerns affecting optimal use of Moodle as well as the effects of a theory-based instructional workshop training. The study explored to what degree health professions faculty selected Moodle tools based on stated objectives and theoretical constructs as a learner-centered approach to instruction and their perceived alignment with such Moodle resources and determined their receptivity to a framework designed to guide such resource utility and integration. Results of the study indicated that among other factors, time constraints, passive resistance to change, and lack of awareness of theoretical and pedagogical rationales for Moodle tool selection accounted for a lack of faculty optimal Moodle tool variations selection and integration in their instructional practice.}
+      \field{isbn}{9781267627001}
+      \field{langid}{english}
+      \field{shorttitle}{Exploring Faculty Integration of {{Moodle}} Resources}
+      \field{title}{Exploring Faculty Integration of {{Moodle}} Resources: {{Effects}} of Theory-Based Training on Performance Objectives, {{Moodle}} Resource Integration, and Their Alignment}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.proquest.com/docview/1054247453/abstract/A6AE7067FC484F9BPQ/1
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/docview/1054247453/abstract/A6AE7067FC484F9BPQ/1
+      \endverb
+    \endentry
+    \entry{baerBegriffsbestimmungenUndDefinitionen2017}{incollection}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c211cafee6c02f96c2ce987c3fe7a2ce}{%
+           family={Bär},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e7dfa49a8e6eca9939489996fc25689}{%
+           family={Fiege},
+           familyi={F\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ae670fef1cad02a4b23a30b8746baaa}{%
+           family={Weiß},
+           familyi={W\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=c211cafee6c02f96c2ce987c3fe7a2ce}{%
+           family={Bär},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2e7dfa49a8e6eca9939489996fc25689}{%
+           family={Fiege},
+           familyi={F\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9ae670fef1cad02a4b23a30b8746baaa}{%
+           family={Weiß},
+           familyi={W\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \strng{fullhash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \strng{bibnamehash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \strng{authorbibnamehash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \strng{authornamehash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \strng{authorfullhash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \strng{editorbibnamehash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \strng{editornamehash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \strng{editorfullhash}{a276c460cdce3c6f0cdb0f8f5e4abdc4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Im Bereich des Projektmanagements kommt es in der Praxis zur vielfältigen und häufig nicht eindeutigen Verwendung von Fachbegriffen. Aus diesem Grund folgt, bereits vor der Darstellung der empfohlenen Projektmanagementmethodik, eine Definition und Begriffsbestimmung der in diesem Lehrbuch verwendeten Fachbegriffe.}
+      \field{booktitle}{Anwendungsbezogenes Projektmanagement: Praxis und Theorie für Projektleiter}
+      \field{isbn}{978-3-662-52974-4}
+      \field{langid}{ngerman}
+      \field{series}{Xpert.press}
+      \field{title}{Begriffsbestimmungen und Definitionen}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{11\bibrangedash 16}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/978-3-662-52974-4_2
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/TX3JZ53D/Bär et al. - 2017 - Begriffsbestimmungen und Definitionen.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-52974-4_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-52974-4_2
+      \endverb
+    \endentry
+    \entry{baurHandbuchMethodenEmpirischen2014}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=0261d1837dffcaf5e3582e1e6f01aeaa}{%
+           family={Baur},
+           familyi={B\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b63a5766c877d465f4d5669bd898b42}{%
+           family={Blasius},
+           familyi={B\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{fullhash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{bibnamehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editorbibnamehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editornamehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editorfullhash}{3e347cdcc7b6277be59b54152b579a12}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-531-17809-7 978-3-531-18939-0}
+      \field{langid}{ngerman}
+      \field{title}{Handbuch Methoden der empirischen Sozialforschung}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-531-18939-0
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/64D4N3WU/Baur und Blasius - 2014 - Handbuch Methoden der empirischen Sozialforschung.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-531-18939-0
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-531-18939-0
+      \endverb
+    \endentry
+    \entry{bilginHandlingProjectDependencies2017}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=29bf38264281328fe63402aadd6f61c0}{%
+           family={Bilgin},
+           familyi={B\bibinitperiod},
+           given={Gozde},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e38601f1231177d2c419566ed0601b6a}{%
+           family={Eken},
+           familyi={E\bibinitperiod},
+           given={Gorkem},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=882288aeaf993cc5b28330e5a646edb8}{%
+           family={Ozyurt},
+           familyi={O\bibinitperiod},
+           given={Beste},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d83d42cb8bf9b5efc91b7f3c7bfaf05}{%
+           family={Dikmen},
+           familyi={D\bibinitperiod},
+           given={Irem},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94be9ac206decdb31fba33efd7bd4a61}{%
+           family={Birgonul},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi Talat},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24a59282c5583b0a27608485f32caf7f}{%
+           family={Ozorhon},
+           familyi={O\bibinitperiod},
+           given={Beliz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f1c1901f7cf5621a201a2f1118fd769}
+      \strng{fullhash}{c8945d5f84a506032433469b9b5c8104}
+      \strng{bibnamehash}{c8945d5f84a506032433469b9b5c8104}
+      \strng{authorbibnamehash}{c8945d5f84a506032433469b9b5c8104}
+      \strng{authornamehash}{3f1c1901f7cf5621a201a2f1118fd769}
+      \strng{authorfullhash}{c8945d5f84a506032433469b9b5c8104}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although construction is a project-based industry, management focus has recently shifted from projects to project portfolios to meet strategic objectives of companies that require holistic analysis of the projects undertaken. Dependencies between projects within a portfolio need to be taken into consideration since they may significantly affect the portfolio success with their combined effects. There are limited studies in the area of construction project portfolio management that investigate how the dependencies between projects can be handled. In this paper, a method is presented to calculate and visualize project dependencies to support decision making process within a portfolio management tool for construction projects. Within this context, a dependency map is proposed not only to identify different dependencies and their effects within the portfolio, but also to take into consideration the combined effect of dependencies. An illustrative case study is depicted in the paper to demonstrate how the proposed method works and how its results can be used to support decision-making during portfolio selection.}
+      \field{day}{1}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{month}{1}
+      \field{series}{{{CENTERIS}} 2017 - {{International Conference}} on {{ENTERprise Information Systems}} / {{ProjMAN}} 2017 - {{International Conference}} on {{Project MANagement}} / {{HCist}} 2017 - {{International Conference}} on {{Health}} and {{Social Care Information Systems}} and {{Technologies}}, {{CENTERIS}}/{{ProjMAN}}/{{HCist}} 2017}
+      \field{shortjournal}{Procedia Computer Science}
+      \field{title}{Handling Project Dependencies in Portfolio Management}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{121}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{356\bibrangedash 363}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.procs.2017.11.048
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/TMTZC84W/Bilgin et al. - 2017 - Handling project dependencies in portfolio managem.pdf;/Users/lukas/Zotero/storage/97NZRIAR/S1877050917322391.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050917322391
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050917322391
+      \endverb
+      \keyw{decision support system,network analysis,portfolio management,project dependencies,visualization}
+    \endentry
+    \entry{braatzEntwicklungMethodeZur2005a}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2b7ae2bd3d0af695bde6c6ea77857dd}{%
+           family={Braatz},
+           familyi={B\bibinitperiod},
+           given={Arnulf},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e2b7ae2bd3d0af695bde6c6ea77857dd}
+      \strng{fullhash}{e2b7ae2bd3d0af695bde6c6ea77857dd}
+      \strng{bibnamehash}{e2b7ae2bd3d0af695bde6c6ea77857dd}
+      \strng{authorbibnamehash}{e2b7ae2bd3d0af695bde6c6ea77857dd}
+      \strng{authornamehash}{e2b7ae2bd3d0af695bde6c6ea77857dd}
+      \strng{authorfullhash}{e2b7ae2bd3d0af695bde6c6ea77857dd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der generelle Trend des steigenden Automatisierungsgrades in Produktionssystemen und die wachsende Dezentralisierung der dazu notwendigen Steuerungen haben zu einem starken Anwachsen von Software-basierten Steuerungsfunktionen in Produktionssystemen geführt. Aufgrund der Migration von Technologien aus der Informationstechnik in die Automatisierungstechnik lässt sich darüber hinaus eine weiter ansteigende Heterogenität bezüglich der Programmierung von Automatisierungsgeräten und Kommunikationssystemen beobachten. Um in diesem Umfeld komplexer werdender, Software-basierter Steuerungen kosteneffizient zu entwickeln, bedarf es einer entsprechenden Methode zur Spezifikation von Steuerungen. Ausgangspunkt hierfür sind die bewährten objektorientierten Methoden der Informationstechnik, die auf der Unified Modeling Language (UML) als Beschreibungsmittel basieren. In der Analyse der Spezifikationsmethoden und Beschreibungsmittel, die zurzeit in der Automatisierungstechnik und Softwaretechnik zur Anwendung kommen, wird gezeigt, dass diese nur in Teilen den Methoden-Axiomen, die als Anforderung verstanden werden, genügen. Weiterhin wird herausgestellt, dass sich die wichtigsten dort aufgeführten Beschreibungsmittel als Diagrammtypen in der UML wieder finden und somit eine objektorientierte Methode basierend auf der UML am besten geeignet ist, die gestellte Aufgabe zu erfüllen. Die im Stand der Wissenschaft vorgestellten Modelle aus der Automatisierungstechnik dienen im Kern zur Darstellung der System-Dekomposition von Steuerungen als mentale Modelle verstanden (Begriffsmodelle). Es wird gezeigt, dass diese Modelle mit ihren spezifischen Eigenschaften übertragen auf die UML diese als Beschreibungsmittel für Steuerungen notwendig ergänzen. Darüber hinaus wird dargestellt, dass durch die Nutzung der Erweiterungsmechanismen der UML für diese Abbildung die Anwendbarkeit, d.h. die Nutzung von Standard-CASE-Tools, erhalten bleibt. Konzeption und Entwicklung der so genannten ODEMA-Methode führen auf Basis des zu einem iterativ-inkrementellen Vorgehensmodell erweiterten Begriffs der Spezifikationsmethode und der um die entsprechenden Begriffsmodelle und Modellvorstellungen erweiterten UML zu einer objektorientierten Methode zur Spezifikation von Steuerungen. In diesem Kontext wird ein so genanntes UML-Profil für ein Plattform-unabhängiges Beschreibungsmittel entwickelt, das den Einsatz der Methode in einem Standard-CASE-Tool möglich macht. Des Weiteren werden in diesem Zusammenhang entsprechende Verfahren zur Prüfung der syntaktischen Konsistenz und semantischen Widerspruchsfreiheit eingeführt sowie deren Anwendung durch das Vorgehensmodell definiert. Die abschließend vorgenommene Anwendung und Validation der Methode anhand der Referenzfallstudie Produktionstechnik weist die Anwendbarkeit der entwickelten Methode nach.}
+      \field{annotation}{Accepted: 2005-11-07}
+      \field{isbn}{9783936947663}
+      \field{langid}{ngerman}
+      \field{title}{Entwicklung einer Methode zur objektorientierten Spezifikation von Steuerungen}
+      \field{type}{doctoralThesis}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.18419/opus-4051
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/9AJQEF8U/Braatz - 2005 - Entwicklung einer Methode zur objektorientierten S.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://elib.uni-stuttgart.de/handle/11682/4068
+      \endverb
+      \verb{url}
+      \verb http://elib.uni-stuttgart.de/handle/11682/4068
+      \endverb
+    \endentry
+    \entry{bradComparativeStudyAgile}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=49d25ed84acc12b7ff819565e60734e3}{%
+           family={Brad},
+           familyi={B\bibinitperiod},
+           given={Marius-Constantin},
+           giveni={M\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=637ff768dff664135d26d78c0f7d8799}{%
+           family={Birloi},
+           familyi={B\bibinitperiod},
+           given={Florian-Cristian},
+           giveni={F\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fa2bb4ba71a404d080fc12ce6516d03}{%
+           family={Bratulescu},
+           familyi={B\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77aa03e833c691aa5bd2d17947b94c9b}{%
+           family={Blaga},
+           familyi={B\bibinitperiod},
+           given={Ioana-Bianca},
+           giveni={I\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3e09329f0549891bcf074282a8c19eb}
+      \strng{fullhash}{20c95556ab9bc554cb7765380ea657d9}
+      \strng{bibnamehash}{20c95556ab9bc554cb7765380ea657d9}
+      \strng{authorbibnamehash}{20c95556ab9bc554cb7765380ea657d9}
+      \strng{authornamehash}{c3e09329f0549891bcf074282a8c19eb}
+      \strng{authorfullhash}{20c95556ab9bc554cb7765380ea657d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper aims to present a comparative analysis between 2 selected agile software tools: Atlassian Jira and Microsoft Team Foundation Server. In the next sections, we will present the methods of our study, expose the analysis of results, make a few discussions on the subject and draw our conclusions. The paper highlights the similarities and differences between these tools with respect to some identified functional requirements. The study will be done in two phases: (1) identification of the key functional requirements for agile management tools, and (2) a comparative analysis of the selected 2 tools. The study has shown that the identified key functional requirements that belong to the groups User stories and epics management, high-level release planning and low-level release planning have been mostly well covered by the examined tools. However, not all the basic functionalities are currently fully covered by some tools. The need for acceptance testing support has been recognized and efforts are being in this direction, although the current state is not satisfactory. User role modeling and personas support has not been covered entirely.}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{A {{Comparative Study}} of {{Agile Project Management Software Tools}}}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{16}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/NDEV2WLF/Brad et al. - A Comparative Study of Agile Project Management So.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.economyinformatics.ase.ro/content/EN16/03%20-%20brad,%20birloi,%20bratulescu,%20blaga.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.economyinformatics.ase.ro/content/EN16/03%20-%20brad,%20birloi,%20bratulescu,%20blaga.pdf
+      \endverb
+    \endentry
+    \entry{brandstaeterAgileITProjekteErfolgreich2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81d77692c77eadc6ca1fdc930fb798e4}{%
+           family={Brandstäter},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{fullhash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{bibnamehash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{authorbibnamehash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{authornamehash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{authorfullhash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-658-04429-9 978-3-658-04430-5}
+      \field{langid}{ngerman}
+      \field{shorttitle}{Agile IT-Projekte erfolgreich gestalten}
+      \field{title}{Agile IT-Projekte erfolgreich gestalten: Risikomanagement als Ergänzung zu Scrum}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-04430-5
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/QYWZ3PCM/Brandstäter - 2013 - Agile IT-Projekte erfolgreich gestalten Risikoman.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-658-04430-5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-658-04430-5
+      \endverb
+      \keyw{Agiles Projektmanagement,Projektmanagement in IT-Projekten,Risiken in der Softwareentwicklung,Risiko und PMI,Risikomanagement für IT-Projekte,Risikomanagement für Scrum}
+    \endentry
+    \entry{chenOrganizationalStructureDynamics2015}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3786541e41932b989a2f9c59738fc281}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={X.\bibnamedelimi L.},
+           giveni={X\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=841da77ffdecfc649dbebd63d4479895}{%
+           family={Mahling},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7039dea89cd3dc84d29bb76b91239fb1}{%
+           family={Riedel},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d447a8424540aa32b02c44f3850b2d39}{%
+           family={Mueller},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Singapore, Singapore}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{404a471d97f10a79cd36fabfab5f8e29}
+      \strng{fullhash}{bcb53c01b5ddc53f5364e3ded971d15f}
+      \strng{bibnamehash}{bcb53c01b5ddc53f5364e3ded971d15f}
+      \strng{authorbibnamehash}{bcb53c01b5ddc53f5364e3ded971d15f}
+      \strng{authornamehash}{404a471d97f10a79cd36fabfab5f8e29}
+      \strng{authorfullhash}{bcb53c01b5ddc53f5364e3ded971d15f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 {{IEEE International Conference}} on {{Industrial Engineering}} and {{Engineering Management}} ({{IEEM}})}
+      \field{eventtitle}{2015 {{IEEE International Conference}} on {{Industrial Engineering}} and {{Engineering Management}} ({{IEEM}})}
+      \field{isbn}{978-1-4673-8066-9}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Organizational Structure and the Dynamics of Collaboration Relationship}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{460\bibrangedash 464}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/IEEM.2015.7385689
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/MTFDHUMD/Chen et al. - 2015 - Organizational structure and the dynamics of colla.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/7385689/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/7385689/
+      \endverb
+    \endentry
+    \entry{dikmenLearningRisksTool2008}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=372028d4e3950d1aa9e4048f883c9682}{%
+           family={Dikmen},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3e2e0176c48a95a56c5b298565b0543}{%
+           family={Birgonul},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b29e6526ede341e98fa1589706958cd}{%
+           family={Anac},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f107ba90ac684ce80a420b0a18807a3}{%
+           family={Tah},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi H.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2889f832fdd4963699d6b86881657276}{%
+           family={Aouad},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f619ca1d547067589c4c5eebe4cb153f}
+      \strng{fullhash}{47efc35f791cc8b2cf01da995d2b008e}
+      \strng{bibnamehash}{47efc35f791cc8b2cf01da995d2b008e}
+      \strng{authorbibnamehash}{47efc35f791cc8b2cf01da995d2b008e}
+      \strng{authornamehash}{f619ca1d547067589c4c5eebe4cb153f}
+      \strng{authorfullhash}{47efc35f791cc8b2cf01da995d2b008e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Risk management (RM) comprises of risk identification, risk analysis, response planning, monitoring and action planning tasks that are carried out throughout the life cycle of a project in order to ensure that project objectives are met. Although the methodological aspects of RM are well-defined, the philosophical background is rather vague. In this paper, a learning-based approach is proposed. In order to implement this approach in practice, a tool has been developed to facilitate construction of a lessons learned database that contains risk-related information and risk assessment throughout the life cycle of a project. The tool is tested on a real construction project. The case study findings demonstrate that it can be used for storing as well as updating risk-related information and finally, carrying out a post-project appraisal. The major weaknesses of the tool are identified as, subjectivity of the risk rating process and unwillingness of people to enter information about reasons of failure.}
+      \field{day}{1}
+      \field{issn}{0926-5805}
+      \field{journaltitle}{Automation in Construction}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{Automation in Construction}
+      \field{shorttitle}{Learning from Risks}
+      \field{title}{Learning from Risks: {{A}} Tool for Post-Project Risk Assessment}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{18}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{42\bibrangedash 50}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.autcon.2008.04.008
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/4QALW993/Dikmen et al. - 2008 - Learning from risks A tool for post-project risk .pdf;/Users/lukas/Zotero/storage/BHGC2PBU/S0926580508000691.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0926580508000691
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0926580508000691
+      \endverb
+      \keyw{Lessons learned,Post-project appraisal,Risk management,Vulnerability}
+    \endentry
+    \entry{easonDivisionLabourDesign1996}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62a0619f93db39fb95415fc343ec8a13}{%
+           family={Eason},
+           familyi={E\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{62a0619f93db39fb95415fc343ec8a13}
+      \strng{fullhash}{62a0619f93db39fb95415fc343ec8a13}
+      \strng{bibnamehash}{62a0619f93db39fb95415fc343ec8a13}
+      \strng{authorbibnamehash}{62a0619f93db39fb95415fc343ec8a13}
+      \strng{authornamehash}{62a0619f93db39fb95415fc343ec8a13}
+      \strng{authorfullhash}{62a0619f93db39fb95415fc343ec8a13}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The design of systems which provide computer support for cooperative work (CSCW) has been dominated by models of collaborative teams in academic or design environments. Such settings are characterized by a relatively egalitarian power distribution and a division of labour established locally by the collaborating parties. This paper describes other types of collaborative work in which the rôles of participants are characterized by pre-established divisions of labour and unequal power distribution. A case study is presented of a collaborative group allocating and scheduling service calls in an electricity company. Using the Organizational Requirements Definition for Information Technology (ORDIT) methods for responsibility analysis a number of alternative organizational structures are described which may serve this task. The alternatives are based upon different job design structures which distribute responsibilities to work roles by different rationales. An analysis is offered of the different CSCW systems that would be necessary to support these alternatives. The paper concludes by examining the implications of pre-established but variable organizational structures for the design of generic CSCW systems.}
+      \field{day}{1}
+      \field{issn}{1466-4437}
+      \field{journaltitle}{Journal of Information Technology}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{J Inf Technol}
+      \field{title}{Division of Labour and the Design of Systems for Computer Support for Cooperative Work}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{11}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{39\bibrangedash 50}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/026839696345414
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/026839696345414
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/026839696345414
+      \endverb
+    \endentry
+    \entry{farnettiOPTIMIZINGCOMMUNICATIONFLOWS2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a946927d5915c7566ffad82c3560094a}{%
+           family={Farnetti},
+           familyi={F\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8b90954b2585b2b6dcaaaf03bf4c6bf}{%
+           family={Trani},
+           familyi={T\bibinitperiod},
+           given={Marco\bibnamedelima Lorenzo},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a46e634dc2fdd367e29afbfdbb1ff7a}{%
+           family={Minotti},
+           familyi={M\bibinitperiod},
+           given={Natale\bibnamedelima Massimo},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=66ff8e643ba829826f181c289500f650}{%
+           family={Vimonsatit},
+           familyi={V\bibinitperiod},
+           given={Sorn},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d492a54d2b636d73ea5a656fe9c7866a}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Amarjit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d3e886644a3db4f600d1a769af1a8c11}{%
+           family={Yazdani},
+           familyi={Y\bibinitperiod},
+           given={Siamak},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb8307de52748cf2de7aa3d9e8234bda}
+      \strng{fullhash}{cb8307de52748cf2de7aa3d9e8234bda}
+      \strng{bibnamehash}{cb8307de52748cf2de7aa3d9e8234bda}
+      \strng{authorbibnamehash}{cb8307de52748cf2de7aa3d9e8234bda}
+      \strng{authornamehash}{cb8307de52748cf2de7aa3d9e8234bda}
+      \strng{authorfullhash}{cb8307de52748cf2de7aa3d9e8234bda}
+      \strng{editorbibnamehash}{41dec286e1bda8d5fd86c4b09915b00a}
+      \strng{editornamehash}{41dec286e1bda8d5fd86c4b09915b00a}
+      \strng{editorfullhash}{41dec286e1bda8d5fd86c4b09915b00a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The AEC industry has witnessed a growth in complexity during design and construction phase driven by clients’ increasing expectations related to technology applications (i.e., BIM), quality delivered, time to execution and cost effectiveness. Hence, leveraging on productivity improvement techniques and organizational behavior models is becoming crucial to more efficiently co-ordinate heterogeneous stakeholders and designers. Previous research has recognized the importance of structured management solutions such as the RACI matrix (a particular type of RAM) as an enabler for efficient communication flows and prompt assignment of roles and responsibilities. However, rarely has been outlined the importance of having a standard RACI framework to be then integrated with specific add-ons in line with the characteristics of the project in scope. These include a Common Data Environment within BIM for data collection enabling a cross information approach between different design disciplines and stakeholders’ information requirements. The paper therefore proposes a method to integrate the abovementioned RACI standard framework for project management with project-specific addons and illustrates the main advantages obtained. These were empirically obtained through ad hoc AEC industry surveys and validated by qualitative impact analyses on renovation projects chosen for their high degree of complexity. Results suggest that the application of the above-mentioned standard framework drives more efficient communication flows and effectively assigns roles and responsibilities, ultimately improving time to execution and cost effectiveness.}
+      \field{issn}{2644-108X}
+      \field{journaltitle}{Proceedings of International Structural Engineering and Construction}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{2}
+      \field{title}{{{OPTIMIZING COMMUNICATION FLOWS USING A STANDARD BIM ORIENTED RACI MATRIX}}}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.14455/ISEC.2022.9(2).CPM-04
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/NSQL4S73/Farnetti et al. - 2022 - OPTIMIZING COMMUNICATION FLOWS USING A STANDARD BI.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.isec-society.org/ISEC_PRESS/ASEA_SEC_06/xml/CPM-04.xml
+      \endverb
+      \verb{url}
+      \verb https://www.isec-society.org/ISEC_PRESS/ASEA_SEC_06/xml/CPM-04.xml
+      \endverb
+    \endentry
+    \entry{fazal-baqaieSkalierenGrossenAgilen2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=47562db645704d7aae59ea79debbc724}{%
+           family={Fazal-Baqaie},
+           familyi={F\bibinithyphendelim B\bibinitperiod},
+           given={Masud},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb65644fd2ceca9bcae6dd13b6a2d785}{%
+           family={Güldali},
+           familyi={G\bibinitperiod},
+           given={Baris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b74cef4b05b881e1306cbbbfbcff012}
+      \strng{fullhash}{9b74cef4b05b881e1306cbbbfbcff012}
+      \strng{bibnamehash}{9b74cef4b05b881e1306cbbbfbcff012}
+      \strng{authorbibnamehash}{9b74cef4b05b881e1306cbbbfbcff012}
+      \strng{authornamehash}{9b74cef4b05b881e1306cbbbfbcff012}
+      \strng{authorfullhash}{9b74cef4b05b881e1306cbbbfbcff012}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{ngerman}
+      \field{title}{Skalieren von großen agilen Projekten mit verteilten Backlogs}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/MGMVE75B/Fazal-Baqaie - 2015 - Skalieren von großen agilen Projekten mit verteilt.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.enabling-agile.de/wp-content/uploads/2020/03/Skalieren_von_grossen_agilen-_Projekten_mit_verteilten_Backlogs.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.enabling-agile.de/wp-content/uploads/2020/03/Skalieren_von_grossen_agilen-_Projekten_mit_verteilten_Backlogs.pdf
+      \endverb
+    \endentry
+    \entry{filionUsingAtlassianTools2017}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=88dda66324ea029866a004304c88a071}{%
+           family={Filion},
+           familyi={F\bibinitperiod},
+           given={Luc},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c840615c8fa3465fcadc350052f56b0}{%
+           family={Daviot},
+           familyi={D\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc72491e7e67911676d45784c9712851}{%
+           family={Le\bibnamedelima Bel},
+           familyi={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Jean-Philippe},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cd79476ccbae005ad5563709e6d0bef}{%
+           family={Gagnon},
+           familyi={G\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Montreal, QC, Canada}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{40113f6a8823ba88af6b1a1d09b4fd2c}
+      \strng{fullhash}{a0c9905aa8655ee77cd195bcff62607a}
+      \strng{bibnamehash}{a0c9905aa8655ee77cd195bcff62607a}
+      \strng{authorbibnamehash}{a0c9905aa8655ee77cd195bcff62607a}
+      \strng{authornamehash}{40113f6a8823ba88af6b1a1d09b4fd2c}
+      \strng{authorfullhash}{a0c9905aa8655ee77cd195bcff62607a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper describes an industrial case study using Atlassian JIRA® and third party plugins for requirements management in the field of transit systems. The solution presented shows efficiency in supporting the management of requirements, traceability and the systems engineering processes globally. After a short description of the technologies in action and a brief overview of the process we targeted, we describe the collection of methods and technologies put into place and demonstrate their use in order to achieve our goal: reaching CMMI-2 for requirements management and traceability. We describe the current background and scope of work, the needs and goals to meet, and then we explain our configurations and possibilities. Our results describe several sets of metrics we have obtained for traceability, starting from a customer requirement down to tests, considering multi-level analysis with specific criteria (verified, tested and justified).}
+      \field{booktitle}{2017 {{Annual IEEE International Systems Conference}} ({{SysCon}})}
+      \field{eventtitle}{2017 {{Annual IEEE International Systems Conference}} ({{SysCon}})}
+      \field{isbn}{978-1-5090-4623-2}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shorttitle}{Using {{Atlassian}} Tools for Efficient Requirements Management}
+      \field{title}{Using {{Atlassian}} Tools for Efficient Requirements Management: {{An}} Industrial Case Study}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SYSCON.2017.7934769
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/FCUSPEYE/Filion et al. - 2017 - Using Atlassian tools for efficient requirements m.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/7934769/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/7934769/
+      \endverb
+    \endentry
+    \entry{gadatschGrundkursITProjektcontrollingGrundlagen2008}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9275409be595e9a1805fbdb65ceb0dee}{%
+           family={Gadatsch},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg+Teubner}%
+      }
+      \strng{namehash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{fullhash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{bibnamehash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{authorbibnamehash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{authornamehash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{authorfullhash}{9275409be595e9a1805fbdb65ceb0dee}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-8348-0469-3 978-3-8348-9520-2}
+      \field{langid}{ngerman}
+      \field{shorttitle}{Grundkurs IT-Projektcontrolling}
+      \field{title}{Grundkurs IT-Projektcontrolling: Grundlagen, Methoden und Werkzeuge für Studierende und Praktiker}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-8348-9520-2
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/9786EHVX/Gadatsch - 2008 - Grundkurs IT-Projektcontrolling Grundlagen, Metho.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-8348-9520-2
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-8348-9520-2
+      \endverb
+      \keyw{Controlling,Fortschrittskontrolle,IT-Controlling,IT-Projektmanagement,Methoden,Planung,Projektcontrolling,Projektmanagement,Projektplanung}
+    \endentry
+    \entry{gilzRequirementsEngineeringUnd2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d302224efce3e3900792eaa1c50acc3e}{%
+           family={Gilz},
+           familyi={G\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=a566d07f3cf60f6a89268b3ae6470600}{%
+           family={Eigner},
+           familyi={E\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=befac1a19064277130210352a4c525e5}{%
+           family={Roubanov},
+           familyi={R\bibinitperiod},
+           given={Daniil},
+           giveni={D\bibinitperiod}}}%
+        {{hash=693862c1b942335d5656d7b8d84392a5}{%
+           family={Zafirov},
+           familyi={Z\bibinitperiod},
+           given={Radoslav},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d302224efce3e3900792eaa1c50acc3e}
+      \strng{fullhash}{d302224efce3e3900792eaa1c50acc3e}
+      \strng{bibnamehash}{d302224efce3e3900792eaa1c50acc3e}
+      \strng{authorbibnamehash}{d302224efce3e3900792eaa1c50acc3e}
+      \strng{authornamehash}{d302224efce3e3900792eaa1c50acc3e}
+      \strng{authorfullhash}{d302224efce3e3900792eaa1c50acc3e}
+      \strng{editorbibnamehash}{22d0b8ce0806bd29c8a359bf178e6d20}
+      \strng{editornamehash}{22d0b8ce0806bd29c8a359bf178e6d20}
+      \strng{editorfullhash}{22d0b8ce0806bd29c8a359bf178e6d20}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Um erfolgreich Produkte zu entwickeln ist es notwendig, von Anfang an die Anforderungen der Kunden und Benutzer zu kennen und in die Entwicklung einfließen zu lassen. Dies erfolgt meist bereits vor dem Start einer Entwicklung durch Marktanalysen und Analysen zum Nutzerverhalten. Darauf aufbauend werden im Requirements Engineering die technischen und vielfältigen Verhaltens-, Qualitäts- und Integrationsanforderungen festgehalten und verwaltet, um so bereits frühzeitig die Qualität des Produktes und die Kundenzufriedenheit sicher zu stellen. Wegen steigender Komplexität entwickelter Systeme ist der Nutzen von Methoden und Werkzeugen des Requirements Engineerings klar zu fassen und ihr Einsatz – trotz erhöhten Aufwandes – unumgänglich. Requirements Management führt zu konkreteren Entwicklungszielen, die effektiveres Entwickeln ermöglichen, da Änderungen und Fehler früher erkannt und umgesetzt werden. Dadurch können Verzögerungen zum Ende hin reduziert werden.}
+      \field{booktitle}{Modellbasierte virtuelle Produktentwicklung}
+      \field{isbn}{978-3-662-43816-9}
+      \field{langid}{ngerman}
+      \field{title}{Requirements Engineering und Requirements Management}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{53\bibrangedash 75}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/978-3-662-43816-9_3
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/RHK9CVFY/Gilz - 2014 - Requirements Engineering und Requirements Manageme.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-43816-9_3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-43816-9_3
+      \endverb
+    \endentry
+    \entry{goepelDeutscheDatenschutzaspekteBei2008}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fd40351927c5c482610f6309b428d8a8}{%
+           family={Goepel},
+           familyi={G\bibinitperiod},
+           given={Miro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55e8ea83586bebc2375d191ca3abfba9}{%
+           family={Jeschke},
+           familyi={J\bibinitperiod},
+           given={Sabina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cbda73a279e33b6bf8ad63e2af30c99}{%
+           family={Knipping},
+           familyi={K\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8818c0b98e7a10580c2a0dd307d88fa1}
+      \strng{fullhash}{8818c0b98e7a10580c2a0dd307d88fa1}
+      \strng{bibnamehash}{8818c0b98e7a10580c2a0dd307d88fa1}
+      \strng{authorbibnamehash}{8818c0b98e7a10580c2a0dd307d88fa1}
+      \strng{authornamehash}{8818c0b98e7a10580c2a0dd307d88fa1}
+      \strng{authorfullhash}{8818c0b98e7a10580c2a0dd307d88fa1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{3}
+      \field{title}{Deutsche {{Datenschutzaspekte}} Bei {{Lernmanagementsystemen}} Am {{Beispiel}} von {{Moodle}}}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/LSHCUD72/Goepel et al. - 2008 - Deutsche Datenschutzaspekte bei Lernmanagementsyst.pdf
+      \endverb
+    \endentry
+    \entry{goehlichArbeitenMitAnforderungen2021}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2362f03dfc0451aeaa35d6cf49619f0c}{%
+           family={Göhlich},
+           familyi={G\bibinitperiod},
+           given={Dietmar},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76adef876af2824c36a491cba10ee357}{%
+           family={Fay},
+           familyi={F\bibinitperiod},
+           given={Tu-Anh},
+           giveni={T\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d6bda31449c9ce9a61a53418de587c39}{%
+           family={Bender},
+           familyi={B\bibinitperiod},
+           given={Beate},
+           giveni={B\bibinitperiod}}}%
+        {{hash=26c7281c714e7536c6705cc4cb4a25df}{%
+           family={Gericke},
+           familyi={G\bibinitperiod},
+           given={Kilian},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{37836c2f5db64a8e30778565cf98b35b}
+      \strng{fullhash}{37836c2f5db64a8e30778565cf98b35b}
+      \strng{bibnamehash}{37836c2f5db64a8e30778565cf98b35b}
+      \strng{authorbibnamehash}{37836c2f5db64a8e30778565cf98b35b}
+      \strng{authornamehash}{37836c2f5db64a8e30778565cf98b35b}
+      \strng{authorfullhash}{37836c2f5db64a8e30778565cf98b35b}
+      \strng{editorbibnamehash}{70663113028ee45100c856124ccdcb1d}
+      \strng{editornamehash}{70663113028ee45100c856124ccdcb1d}
+      \strng{editorfullhash}{70663113028ee45100c856124ccdcb1d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Im vorstehenden Kapitel wurde beschrieben, wie eine initiale Anforderungsbasis über das Ermitteln, Spezifizieren, Analysieren und Strukturieren von Anforderungen entwickelt wird~(Requirements Engineering). Diese Anforderungsbasis ist aber keineswegs statisch, sondern unterliegt im weiteren Verlauf des Produktentstehungsprozesses einer ständigen Analyse, Priorisierung, Weiterentwicklung und Verifizierung. Das Entwickeln und das Arbeiten mit Anforderungen müssen, wie in Abb.~8.1 dargestellt, also eng verzahnt und aufeinander abgestimmt erfolgen.}
+      \field{booktitle}{Pahl/Beitz Konstruktionslehre: Methoden und Anwendung erfolgreicher Produktentwicklung}
+      \field{isbn}{978-3-662-57303-7}
+      \field{langid}{ngerman}
+      \field{shorttitle}{Arbeiten mit Anforderungen}
+      \field{title}{Arbeiten mit Anforderungen: Requirements Management}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{211\bibrangedash 229}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/978-3-662-57303-7_8
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/K4AP5788/Göhlich und Fay - 2021 - Arbeiten mit Anforderungen Requirements Managemen.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-57303-7_8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-57303-7_8
+      \endverb
+    \endentry
+    \entry{gollMitScrumGewuenschten2015}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ecf7443c667a529328edec9d962ffb4b}{%
+           family={Goll},
+           familyi={G\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b00c9448b111bfa3e5301272086a6f47}{%
+           family={Hommel},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{2aa4632b871a6922103fb834effbaa37}
+      \strng{fullhash}{2aa4632b871a6922103fb834effbaa37}
+      \strng{bibnamehash}{2aa4632b871a6922103fb834effbaa37}
+      \strng{authorbibnamehash}{2aa4632b871a6922103fb834effbaa37}
+      \strng{authornamehash}{2aa4632b871a6922103fb834effbaa37}
+      \strng{authorfullhash}{2aa4632b871a6922103fb834effbaa37}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-10720-8 978-3-658-10721-5}
+      \field{langid}{ngerman}
+      \field{title}{Mit Scrum zum gewünschten System}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-10721-5
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/ZWYHSVZR/Goll und Hommel - 2015 - Mit Scrum zum gewünschten System.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-658-10721-5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-658-10721-5
+      \endverb
+    \endentry
+    \entry{hanschkeAgilePlanungNur2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2bb478c85db9614215d97afaadfe5451}{%
+           family={Hanschke},
+           familyi={H\bibinitperiod},
+           given={Inge},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2bb478c85db9614215d97afaadfe5451}
+      \strng{fullhash}{2bb478c85db9614215d97afaadfe5451}
+      \strng{bibnamehash}{2bb478c85db9614215d97afaadfe5451}
+      \strng{authorbibnamehash}{2bb478c85db9614215d97afaadfe5451}
+      \strng{authornamehash}{2bb478c85db9614215d97afaadfe5451}
+      \strng{authorfullhash}{2bb478c85db9614215d97afaadfe5451}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1867-5913}
+      \field{journaltitle}{Wirtschaftsinformatik \& Management}
+      \field{langid}{ngerman}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{Wirtsch Inform Manag}
+      \field{title}{Agile Planung — nur so viel planen wie nötig}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{70\bibrangedash 78}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s35764-016-0063-1
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/KBF8NU9S/Hanschke - 2016 - Agile Planung — nur so viel planen wie nötig.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s35764-016-0063-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s35764-016-0063-1
+      \endverb
+    \endentry
+    \entry{hobelGABLERBUSINESSWISSENAZ2006}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8785501b73a978fd25d926bae6d5554e}{%
+           family={Hobel},
+           familyi={H\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=134d4d33f0c0ec6eea99d533b5d240d0}{%
+           family={Schütte},
+           familyi={S\bibinitperiod},
+           given={Silke},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Gabler}%
+      }
+      \strng{namehash}{11719580fe8faf7d2ebb0f26a87ae011}
+      \strng{fullhash}{11719580fe8faf7d2ebb0f26a87ae011}
+      \strng{bibnamehash}{11719580fe8faf7d2ebb0f26a87ae011}
+      \strng{authorbibnamehash}{11719580fe8faf7d2ebb0f26a87ae011}
+      \strng{authornamehash}{11719580fe8faf7d2ebb0f26a87ae011}
+      \strng{authorfullhash}{11719580fe8faf7d2ebb0f26a87ae011}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-409-12547-5 978-3-8349-9102-7}
+      \field{langid}{ngerman}
+      \field{title}{GABLER BUSINESS-WISSEN A-Z Projektmanagement}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-8349-9102-7
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/8WI8ZW62/Hobel und Schütte - 2006 - GABLER BUSINESS-WISSEN A-Z Projektmanagement.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-8349-9102-7
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-8349-9102-7
+      \endverb
+      \keyw{Business,Controlling,Krisenmanagement,Management,Management von Projekten,Multiprojektmanagement,Planung,Projekt-Controlling,Projektabnahme,Projektabschluss,Projekte,Projektmanagement,Projektmarketing,Projektplanung,Standards (Prozesse Hand}
+    \endentry
+    \entry{holzbaurNachhaltigesProjektmanagementVerantwortlichkeit2022}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0a3820ba628f1d8166dfe3931578d3ba}{%
+           family={Holzbaur},
+           familyi={H\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff83244dee89fd1ddf6702e14ef440dc}{%
+           family={Fierke},
+           familyi={F\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{1964a2828da21654b40bcc1648688168}
+      \strng{fullhash}{1964a2828da21654b40bcc1648688168}
+      \strng{bibnamehash}{1964a2828da21654b40bcc1648688168}
+      \strng{authorbibnamehash}{1964a2828da21654b40bcc1648688168}
+      \strng{authornamehash}{1964a2828da21654b40bcc1648688168}
+      \strng{authorfullhash}{1964a2828da21654b40bcc1648688168}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-658-37030-5 978-3-658-37031-2}
+      \field{langid}{ngerman}
+      \field{series}{essentials}
+      \field{shorttitle}{Nachhaltiges Projektmanagement}
+      \field{title}{Nachhaltiges Projektmanagement: Verantwortlichkeit und Umsetzung in zukunftsorientierten Organisationen}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-37031-2
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/9VRQVTDM/Holzbaur und Fierke - 2022 - Nachhaltiges Projektmanagement Verantwortlichkeit.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-658-37031-2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-658-37031-2
+      \endverb
+      \keyw{Auftrag,Objekte der Nachhaltigkeit,Projektorganisation,Projektziel,Zukunftsorientierung}
+    \endentry
+    \entry{houdekRequirementsEngineeringErfahrungen2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8717c8d280708066d0ea87845b9f7fd}{%
+           family={Houdek},
+           familyi={H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a8717c8d280708066d0ea87845b9f7fd}
+      \strng{fullhash}{a8717c8d280708066d0ea87845b9f7fd}
+      \strng{bibnamehash}{a8717c8d280708066d0ea87845b9f7fd}
+      \strng{authorbibnamehash}{a8717c8d280708066d0ea87845b9f7fd}
+      \strng{authornamehash}{a8717c8d280708066d0ea87845b9f7fd}
+      \strng{authorfullhash}{a8717c8d280708066d0ea87845b9f7fd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Softwaretechnik-Trends}
+      \field{month}{1}
+      \field{shortjournal}{Softwaretechnik-Trends}
+      \field{title}{Requirements {{Engineering Erfahrungen}} in {{Projekten}} Der {{Automobilindustrie}}}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{23}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/MPMG5842/Houdek - 2003 - Requirements Engineering Erfahrungen in Projekten .pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/profile/Frank-Houdek-2/publication/220571119_Requirements_Engineering_Erfahrungen_in_Projekten_der_Automobilindustrie/links/5e8b164792851c2f5283290c/Requirements-Engineering-Erfahrungen-in-Projekten-der-Automobilindustrie.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/profile/Frank-Houdek-2/publication/220571119_Requirements_Engineering_Erfahrungen_in_Projekten_der_Automobilindustrie/links/5e8b164792851c2f5283290c/Requirements-Engineering-Erfahrungen-in-Projekten-der-Automobilindustrie.pdf
+      \endverb
+    \endentry
+    \entry{hruschkaAgileSoftwareentwicklungGrossen2009}{incollection}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dab970408ef311cc3f2b85d82e444534}{%
+           family={Hruschka},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61d4d17b2d880e99d0c77f6e2bce7f50}{%
+           family={Rupp},
+           familyi={R\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=075354767191d08106b009211841dd8d}{%
+           family={Starke},
+           familyi={S\bibinitperiod},
+           given={Gernot},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=dab970408ef311cc3f2b85d82e444534}{%
+           family={Hruschka},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=61d4d17b2d880e99d0c77f6e2bce7f50}{%
+           family={Rupp},
+           familyi={R\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=075354767191d08106b009211841dd8d}{%
+           family={Starke},
+           familyi={S\bibinitperiod},
+           given={Gernot},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Spektrum Akademischer Verlag}%
+      }
+      \strng{namehash}{09b17247869b15e802210a6d71c691c3}
+      \strng{fullhash}{09b17247869b15e802210a6d71c691c3}
+      \strng{bibnamehash}{09b17247869b15e802210a6d71c691c3}
+      \strng{authorbibnamehash}{09b17247869b15e802210a6d71c691c3}
+      \strng{authornamehash}{09b17247869b15e802210a6d71c691c3}
+      \strng{authorfullhash}{09b17247869b15e802210a6d71c691c3}
+      \strng{editorbibnamehash}{09b17247869b15e802210a6d71c691c3}
+      \strng{editornamehash}{09b17247869b15e802210a6d71c691c3}
+      \strng{editorfullhash}{09b17247869b15e802210a6d71c691c3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Es gibt jede Menge Tipps und Tricks, wie agile Methoden in kleinen Projekten funktionieren. Leider fi nden Sie jedoch nach wie vor wenig darüber, wie agile Methoden auch große Projekte unterstützen können. eXtreme Programming nach [Beck00] ist nur für Teams von weniger als 12 bis 15 Mitarbeiter geeignet. Zu Scrum gibt es hingegen Aussagen von Ken Schwaber, der von Teamgrößen mit bis zu 400 Mitarbeitern spricht. Allerdings ist in diesem Bereich ebenso wie bei eXtreme Programming bisher wenig Konkretes publiziert. Die Crystal- Familie andererseits trägt unterschiedlichen Teamgrößen über die Farbskala Rechnung, gibt aber bisher keine Hinweise zu den dunkleren Farbtönen, d. h. für Teams mit mehr als 40 Mitarbeitern.}
+      \field{booktitle}{Agility kompakt: Tipps für erfolgreiche Systementwicklung}
+      \field{isbn}{978-3-8274-2204-0}
+      \field{langid}{ngerman}
+      \field{series}{IT kompakt}
+      \field{title}{Agile Softwareentwicklung in großen Projekten}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{92\bibrangedash 96}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1007/978-3-8274-2204-0_4
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/83PPZ6C6/Hruschka et al. - 2009 - Agile Softwareentwicklung in großen Projekten.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-8274-2204-0_4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-8274-2204-0_4
+      \endverb
+    \endentry
+    \entry{koenigsITRisikomanagementMitSystem2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0643146ac56de719536d1ebdb1458147}{%
+           family={Königs},
+           familyi={K\bibinitperiod},
+           given={Hans-Peter},
+           giveni={H\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{0643146ac56de719536d1ebdb1458147}
+      \strng{fullhash}{0643146ac56de719536d1ebdb1458147}
+      \strng{bibnamehash}{0643146ac56de719536d1ebdb1458147}
+      \strng{authorbibnamehash}{0643146ac56de719536d1ebdb1458147}
+      \strng{authornamehash}{0643146ac56de719536d1ebdb1458147}
+      \strng{authorfullhash}{0643146ac56de719536d1ebdb1458147}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-12003-0 978-3-658-12004-7}
+      \field{langid}{ngerman}
+      \field{title}{IT-Risikomanagement mit System}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-12004-7
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/C8ZG49UG/Königs - 2017 - IT-Risikomanagement mit System.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-658-12004-7
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-658-12004-7
+      \endverb
+      \keyw{Business Continuity Management,CIO,Compliance,Corporate Governance,Datenschutz-Praxis,Informations-Sicherheit,IT Governance,IT Risikomanagement,IT-Grundschutz,IT-Risiken,IT-Risiko-Management,IT-Risikomanagement,IT-Sicherheit,IT-Strategie,KES,Risiko-Management-Prozess,Risikomanagement,Unternehmensrisiken}
+    \endentry
+    \entry{kusay-merkleAgilesProjektmanagementIm2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=945117d94b3e42f123a560d4d60adc49}{%
+           family={Kusay-Merkle},
+           familyi={K\bibinithyphendelim M\bibinitperiod},
+           given={Ursula},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{945117d94b3e42f123a560d4d60adc49}
+      \strng{fullhash}{945117d94b3e42f123a560d4d60adc49}
+      \strng{bibnamehash}{945117d94b3e42f123a560d4d60adc49}
+      \strng{authorbibnamehash}{945117d94b3e42f123a560d4d60adc49}
+      \strng{authornamehash}{945117d94b3e42f123a560d4d60adc49}
+      \strng{authorfullhash}{945117d94b3e42f123a560d4d60adc49}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-662-56799-9 978-3-662-56800-2}
+      \field{langid}{ngerman}
+      \field{shorttitle}{Agiles Projektmanagement im Berufsalltag}
+      \field{title}{Agiles Projektmanagement im Berufsalltag: Für mittlere und kleine Projekte}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-662-56800-2
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/KRU5CTFS/Kusay-Merkle - 2018 - Agiles Projektmanagement im Berufsalltag Für mitt.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-662-56800-2
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-662-56800-2
+      \endverb
+    \endentry
+    \entry{kusterHandbuchProjektmanagementAgil2022}{book}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=0efd5daf95899bc068018f2352d88ac2}{%
+           family={Kuster},
+           familyi={K\bibinitperiod},
+           given={Jürg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5ea7e05fba705dc039a036abeab6cc6}{%
+           family={Bachmann},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7dd21ab610fcb9f3b41896cf3e2c2db}{%
+           family={Hubmann},
+           familyi={H\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7afe230c8b972ca4a486c039385516e}{%
+           family={Lippmann},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=143973196ec1c6be28dec432f2045d8e}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dd34624b5e261c493e37886df0e6ae90}
+      \strng{fullhash}{b80631ae2dfe60c28b12a159dde5bce3}
+      \strng{bibnamehash}{b80631ae2dfe60c28b12a159dde5bce3}
+      \strng{authorbibnamehash}{b80631ae2dfe60c28b12a159dde5bce3}
+      \strng{authornamehash}{dd34624b5e261c493e37886df0e6ae90}
+      \strng{authorfullhash}{b80631ae2dfe60c28b12a159dde5bce3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-662-65472-9 978-3-662-65473-6}
+      \field{langid}{ngerman}
+      \field{shorttitle}{Handbuch Projektmanagement}
+      \field{title}{Handbuch Projektmanagement: Agil – Klassisch – Hybrid}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-662-65473-6
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/BACC4WQR/Kuster et al. - 2022 - Handbuch Projektmanagement Agil – Klassisch – Hyb.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-662-65473-6
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-662-65473-6
+      \endverb
+      \keyw{Agiles Projektmanagement,Führung,Hybrides Projektmanagement,Klassisches Projektmanagement,Management,Organisation,Planung,Projektmanagement,RACI}
+    \endentry
+    \entry{lauberWieFormalSoll1981}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f78af9f62c15f1b6cff150b9b8bebb9f}{%
+           family={Lauber},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3da75e2e9eb455d300e595f4bec71f42}{%
+           family={Jovalekić},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d7ca6e8b55bfb5bd94985f052b60cf12}{%
+           family={Brauer},
+           familyi={B\bibinitperiod},
+           given={Wilfried},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{bc4dd1805e98ee3110871729259b267a}
+      \strng{fullhash}{bc4dd1805e98ee3110871729259b267a}
+      \strng{bibnamehash}{bc4dd1805e98ee3110871729259b267a}
+      \strng{authorbibnamehash}{bc4dd1805e98ee3110871729259b267a}
+      \strng{authornamehash}{bc4dd1805e98ee3110871729259b267a}
+      \strng{authorfullhash}{bc4dd1805e98ee3110871729259b267a}
+      \strng{editorbibnamehash}{d7ca6e8b55bfb5bd94985f052b60cf12}
+      \strng{editornamehash}{d7ca6e8b55bfb5bd94985f052b60cf12}
+      \strng{editorfullhash}{d7ca6e8b55bfb5bd94985f052b60cf12}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{“Die Antwort auf die Probleme der Software heißt: Software” [1]. Diese Erkenntnis hat dazu geführt, daß in den letzten Jahren eine Reihe von rechnergestützten Spezifikations- und Entwurfssystemen entwickelt wurden mit dem Ziel, die kreative Tätigkeit des Entwickelns von Rechner-Software und -Hardware zwar den beteiligten Menschen zu überlassen, ihnen dabei aber unterstützende Software-Werkzeuge verfügbar zu machen [2]. Die Unterstützung besteht — neben der automatischen Herstellung der Dokumentation — vor allem in der Bereitstellung von Hilfen und Prüfungen zur Erkennung möglicher Fehler im Sinne einer Vermeidung der oben angesprochenen “Probleme der Software”. Diese Probleme entstehen nämlich durch (von einem gewissen Komplexitätsgrad an unvermeidliche) sog. “menschliche Fehlermechanismen”, wie z.B. Denkfehler, Kommunikationsfehler, Interpretationsfehler, Flüchtigkeitsfehler usw. [3]. Die Auswirkungen dieser Fehlermechanismen (bezüglich der Kosten für ihre Beseitigung) sind umso schwerwiegender, je “früher” sie auftreten. Aus diesem Grunde kommt der Rechnerunterstützung gerade in den früheren Phasen eines Projekts (d.h. bei der Problemanalyse und der Pflichtenhefterstellung) große Bedeutung zu.}
+      \field{booktitle}{GI — 11. Jahrestagung: In Verbindung mit Third Conference of the European Co-operation in Informatics (ECI) München, 20.–23. Oktober 1981 Proceedings}
+      \field{isbn}{978-3-662-01089-1}
+      \field{langid}{ngerman}
+      \field{series}{Informatik-Fachberichte}
+      \field{title}{Wie formal soll und darf die Beschreibung des Pflichtenheftes für ein Prozeßautomatisierungssystem sein?}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{482\bibrangedash 490}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/978-3-662-01089-1_47
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-01089-1_47
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-01089-1_47
+      \endverb
+    \endentry
+    \entry{ortuMeasuringUnderstandingEffectiveness2015}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=751731f88b8e99a34a20f70c906cef2c}{%
+           family={Ortu},
+           familyi={O\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a577c0d4a52bb29e8b74046060639412}{%
+           family={Destefanis},
+           familyi={D\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95718aa6f0208fd9c51a11b73eefdabb}{%
+           family={Kassab},
+           familyi={K\bibinitperiod},
+           given={Mohamad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f97a7004db38a3fbc0075ede771a5ae}{%
+           family={Marchesi},
+           familyi={M\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Florence, Italy}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3433271f73956e861274c5e61f82219d}
+      \strng{fullhash}{da45c4e1046983b17b1082d4ef0fb8bb}
+      \strng{bibnamehash}{da45c4e1046983b17b1082d4ef0fb8bb}
+      \strng{authorbibnamehash}{da45c4e1046983b17b1082d4ef0fb8bb}
+      \strng{authornamehash}{3433271f73956e861274c5e61f82219d}
+      \strng{authorfullhash}{da45c4e1046983b17b1082d4ef0fb8bb}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tools for project management and issues/bugs tracking are becoming useful for governing the development process of Open Source software. Such tools simplify the communications process among developers and ensure the scalability of a project. The more information developers are able to exchange, the clearer are the goals, and the higher is the number of developers keen on joining and actively collaborating on a project. In this paper we present a preliminary empirical analysis of the communities-structure of developers in JIRA by analyzing 7 popular projects hosted in the repository. We analyze how these communities perform in terms of issue-resolution time of any given issue. The main contributions of this work are the confirmation of the existence of communities in developer networks, and the empirical finding that the issue resolutiontime of any given issue is not correlated with the dimension of a developer community.}
+      \field{booktitle}{2015 {{IEEE}}/{{ACM}} 6th {{International Workshop}} on {{Emerging Trends}} in {{Software Metrics}}}
+      \field{eventtitle}{2015 {{IEEE}}/{{ACM}} 6th {{International Workshop}} on {{Emerging Trends}} in {{Software Metrics}} ({{WETSoM}})}
+      \field{isbn}{978-1-4673-7103-2}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{Measuring and {{Understanding}} the {{Effectiveness}} of {{JIRA Developers Communities}}}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3\bibrangedash 10}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/WETSoM.2015.10
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/73YW8V4R/Ortu et al. - 2015 - Measuring and Understanding the Effectiveness of J.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/7181585/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/7181585/
+      \endverb
+    \endentry
+    \entry{osterhageAnhangProjektmanagement2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e938e24bc159be0bcff6d2ac4ec6853}{%
+           family={Osterhage},
+           familyi={O\bibinitperiod},
+           given={Wolfgang\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9e938e24bc159be0bcff6d2ac4ec6853}{%
+           family={Osterhage},
+           familyi={O\bibinitperiod},
+           given={Wolfgang\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \strng{fullhash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \strng{bibnamehash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \strng{authorbibnamehash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \strng{authornamehash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \strng{authorfullhash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \strng{editorbibnamehash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \strng{editornamehash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \strng{editorfullhash}{9e938e24bc159be0bcff6d2ac4ec6853}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Die bisher behandelte Vorgehensweise bei der Entwicklung der Voraussetzungen für ein gelingendes Notfallmanagement inklusive Testung hat klar gezeigt, dass sich diese nur im Rahmen eines eigenständigen Projektes realisieren lassen. Deshalb bietet es sich an, die zugehörigen organisatorischen Maßnahmen durch eine entsprechende Systemstützung zu flankieren. Eine solche systemtechnische Flankierung ist sinnvoll, um die gesamte Komplexität eines solchen Projektes besser zu beherrschen. Systeme, die das Projektmanagement unterstützen, laufen unter dem Kürzel PMS: Projektmanagementsystem. Auf diese soll in diesem Kapitel näher eingegangen werden.}
+      \field{booktitle}{Notfallmanagement in Kommunikationsnetzen}
+      \field{isbn}{978-3-662-45660-6}
+      \field{langid}{ngerman}
+      \field{series}{Xpert.press}
+      \field{shorttitle}{Anhang 2}
+      \field{title}{Anhang 2: Projektmanagement}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{119\bibrangedash 128}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-662-45660-6_11
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/AR9W3AGR/Osterhage - 2016 - Anhang 2 Projektmanagement.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-45660-6_11
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-45660-6_11
+      \endverb
+    \endentry
+    \entry{panagosToolsUndMassnahmen2019}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4f76c03718ed233f4147a9af4068d5ea}{%
+           family={Panagos},
+           familyi={P\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ea0cd575eb8568613cd0af3aa2a3947}{%
+           family={Hammer},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4f76c03718ed233f4147a9af4068d5ea}{%
+           family={Panagos},
+           familyi={P\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7ea0cd575eb8568613cd0af3aa2a3947}{%
+           family={Hammer},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{419081e4fd0fe36359ef27257976dcd3}
+      \strng{fullhash}{419081e4fd0fe36359ef27257976dcd3}
+      \strng{bibnamehash}{419081e4fd0fe36359ef27257976dcd3}
+      \strng{authorbibnamehash}{419081e4fd0fe36359ef27257976dcd3}
+      \strng{authornamehash}{419081e4fd0fe36359ef27257976dcd3}
+      \strng{authorfullhash}{419081e4fd0fe36359ef27257976dcd3}
+      \strng{editorbibnamehash}{419081e4fd0fe36359ef27257976dcd3}
+      \strng{editornamehash}{419081e4fd0fe36359ef27257976dcd3}
+      \strng{editorfullhash}{419081e4fd0fe36359ef27257976dcd3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Die Transformation umfasst mehr als nur Managementmethoden. Gerade die Entscheidung, eine toolgestützte TransformationTransformationtoolgestützte durchzuführen, wirft eine ganze Reihe von Fragen auf, die wir im Folgenden betrachten werden: Wie nachhaltig kann, sollte bzw. muss die technische Lösung sein? Gibt es eine Grenze, ab wann es nicht mehr sinnvoll ist, die Transformation technisch zu unterstützen? Ist es billiger, eine Reihe von studentischen Hilfskräften zu beschäftigen oder doch lieber ein Tool individuell zu entwickeln?}
+      \field{booktitle}{Transformation von Unternehmen und Technologie: Wie sich die Daten- und Prozess-Migration erfolgreich steuern und umsetzen lässt}
+      \field{isbn}{978-3-662-54052-7}
+      \field{langid}{ngerman}
+      \field{title}{Tools und Maßnahmen zur Unterstützung in der Transformation}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{113\bibrangedash 128}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-662-54052-7_6
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/RC4IRN2I/Panagos und Hammer - 2019 - Tools und Maßnahmen zur Unterstützung in der Trans.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-54052-7_6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-54052-7_6
+      \endverb
+      \keyw{ETL,Sustainability,Transformationswerkzeuge}
+    \endentry
+    \entry{rehaPROJECTMANAGEMENTTOOLS2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=be2d0b8eb54d2b1535e39a08a19f0d97}{%
+           family={Reha},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9b7996c8004d11a207ce4da979e7900}{%
+           family={Fai},
+           familyi={F\bibinitperiod},
+           given={Victoria},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9abac72bf3a0950e7fcbb5028541081}
+      \strng{fullhash}{d9abac72bf3a0950e7fcbb5028541081}
+      \strng{bibnamehash}{d9abac72bf3a0950e7fcbb5028541081}
+      \strng{authorbibnamehash}{d9abac72bf3a0950e7fcbb5028541081}
+      \strng{authornamehash}{d9abac72bf3a0950e7fcbb5028541081}
+      \strng{authorfullhash}{d9abac72bf3a0950e7fcbb5028541081}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Students are pressed for time, struggle to manage their time, and often do not have the training and tools to help them out. Are there some cost-effective tools that could be used by both faculty and students to help solve this problem? This paper documents the results of analyzing one such tool that could be used in the classroom to help students solve this problem especially for complex and lengthy courses. The Atlassian Tool Suite is analyzed as a project management tool to help students complete their Senior Capstone Project in an undergraduate program in Software Design and Development at a major university in the United States. Both the student perspective and the instructor perspective on using the Atlassian Tool Suite are explored. The benefits of using the Atlassian Tool Suite for students and the university are presented and recommendations for integrating the Atlassian Tool Suite into the classroom are given at the end.}
+      \field{journaltitle}{Journal of Instructional Research}
+      \field{langid}{english}
+      \field{title}{{{PROJECT MANAGEMENT TOOLS IN THE CLASSROOM}}: {{USING THE ATLASSIAN TOOL SUITE IN THE CLASSROOM}}}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/KNXUAWA9/Reha und Fai - 2021 - PROJECT MANAGEMENT TOOLS IN THE CLASSROOM USING T.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://files.eric.ed.gov/fulltext/EJ1314155.pdf
+      \endverb
+      \verb{url}
+      \verb https://files.eric.ed.gov/fulltext/EJ1314155.pdf
+      \endverb
+    \endentry
+    \entry{schellongEnergiemanagementsysteme2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b435a5c3c6256c1e5f268c58c3fb362f}{%
+           family={Schellong},
+           familyi={S\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b435a5c3c6256c1e5f268c58c3fb362f}{%
+           family={Schellong},
+           familyi={S\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \strng{fullhash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \strng{bibnamehash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \strng{authorbibnamehash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \strng{authornamehash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \strng{authorfullhash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \strng{editorbibnamehash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \strng{editornamehash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \strng{editorfullhash}{b435a5c3c6256c1e5f268c58c3fb362f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Energiemanagement unterstützt Maßnahmen zur effizienten Energienutzung, die sich aus betriebswirtschaftlichen und umweltpolitischen Zielen ergeben. Es untersucht dabei den Weg der Energie von der Bereitstellung mit unterschiedlichen Energieträgern, über die Energieverteilung bis hin zur Energieanwendung. Wir beschreiben in diesem Kapitel Anforderungen für die Entwicklung und Implementierung von Energiemanagementsystemen. Diese umfassen die inhaltlichen und organisatorischen Aspekte, die bei der Softwareentwicklung solcher Systeme zu erfüllen sind. Die Struktur eines Lastenhefts zur Entwicklung von Energiemanagementsystemen wird vorgestellt.}
+      \field{booktitle}{Analyse und Optimierung von Energieverbundsystemen}
+      \field{isbn}{978-3-662-49463-9}
+      \field{langid}{ngerman}
+      \field{title}{Energiemanagementsysteme}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{495\bibrangedash 518}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/978-3-662-49463-9_10
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/INJSVJU3/Schellong - 2016 - Energiemanagementsysteme.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-49463-9_10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-49463-9_10
+      \endverb
+    \endentry
+    \entry{schuesslerEinfuehrungDokumentenManagementSystemsFuer2008}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=11d60a41b2ce19ddab78f64a7cf95692}{%
+           family={Schüßler},
+           familyi={S\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=739776542c48bd3ccd07d49b5c019557}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Klaus\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=11d60a41b2ce19ddab78f64a7cf95692}{%
+           family={Schüßler},
+           familyi={S\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{11d60a41b2ce19ddab78f64a7cf95692}
+      \strng{fullhash}{11d60a41b2ce19ddab78f64a7cf95692}
+      \strng{bibnamehash}{11d60a41b2ce19ddab78f64a7cf95692}
+      \strng{authorbibnamehash}{11d60a41b2ce19ddab78f64a7cf95692}
+      \strng{authornamehash}{11d60a41b2ce19ddab78f64a7cf95692}
+      \strng{authorfullhash}{11d60a41b2ce19ddab78f64a7cf95692}
+      \strng{editorbibnamehash}{ba910d4b1bcfefe9d45078f46795b400}
+      \strng{editornamehash}{ba910d4b1bcfefe9d45078f46795b400}
+      \strng{editorfullhash}{ba910d4b1bcfefe9d45078f46795b400}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Die folgenden Ausführungen beschreiben eine bewährte und erfolgreiche Methodik sowie die zugehörigen inhaltlichen Schwerpunkte, die bei der Vorbereitung und Einführung eines Dokumenten-Management-Systems (DMS) für eine verfahrenstechnische Anlage zu beachten sind. Sie resultieren insbesondere aus den langjährigen praktischen Erfahrungen des Verfassers und aus zahlreichen Gesprächen mit Fachkollegen.}
+      \field{booktitle}{Dokumentation verfahrenstechnischer Anlagen: Praxishandbuch mit Checklisten und Beispielen}
+      \field{isbn}{978-3-540-85124-0}
+      \field{langid}{ngerman}
+      \field{series}{VDI-Buch}
+      \field{title}{Einführung eines Dokumenten-Management-Systems für die Anlagendokumentation}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{267\bibrangedash 296}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1007/978-3-540-85124-0_7
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/3VZJU9P2/Schüßler - 2008 - Einführung eines Dokumenten-Management-Systems für.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-540-85124-0_7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-540-85124-0_7
+      \endverb
+    \endentry
+    \entry{schweighoferDevelopmentQuizImplementation2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=51d79114e009fa25732b7088dcc7fe5a}{%
+           family={Schweighofer},
+           familyi={S\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76aa3ffd462bdbe8a8f50672c66fd0b9}{%
+           family={Taraghi},
+           familyi={T\bibinitperiod},
+           given={Behnam},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c1e37bddb3178581978b467dea5df20}{%
+           family={Ebner},
+           familyi={E\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{fullhash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{bibnamehash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{authorbibnamehash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{authornamehash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{authorfullhash}{f134b4b1592f3e963e32118c6f1767e0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Technology Enhanced Learning has become more popular in recent times and many organizations and universities use it as a key instrument in various teaching and training scenarios. At the University of Technology of Graz, some courses require randomized quizzes where question variables can be assigned by arbitrary mathematical functions and this feature is missing in the current solutions. This article describes the development of a quiz application that can be integrated into Moodle by utilization of the Learning Tools Interoperability protocol (LTI). The PHP application is built to support programmable questions that can contain JavaScript and HTML code. Teachers are able to build interactive, randomized quizzes, in which the random variables can be assigned with complex mathematical functions. Furthermore, the application provides a programmable grading mechanism. With this mechanism, it is possible for students to self-assess their performance, as well as for teachers to formally assess their students' learning success automatically and send the results back to Moodle (or other LTI compatible consumer applications).}
+      \field{day}{6}
+      \field{journaltitle}{International Journal of Emerging Technologies in Learning (iJET)}
+      \field{month}{12}
+      \field{shortjournal}{International Journal of Emerging Technologies in Learning (iJET)}
+      \field{title}{Development of a {{Quiz}} – {{Implementation}} of a ({{Self-}}) {{Assessment Tool}} and Its {{Integration}} in {{Moodle}}}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{141}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3991/ijet.v14i23.11484
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/P597VCVS/Schweighofer et al. - 2019 - Development of a Quiz – Implementation of a (Self-.pdf
+      \endverb
+    \endentry
+    \entry{stoegerWirksamesProjektmanagementMit2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93cbdeb25553674b75a2ba37530db248}{%
+           family={Stöger},
+           familyi={S\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Schäffer-Poeschel}%
+      }
+      \strng{namehash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{fullhash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{bibnamehash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{authorbibnamehash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{authornamehash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{authorfullhash}{93cbdeb25553674b75a2ba37530db248}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-7910-4328-9}
+      \field{langid}{ngerman}
+      \field{shorttitle}{Wirksames Projektmanagement}
+      \field{title}{Wirksames Projektmanagement: Mit dem Project Model Canvas zu Resultaten}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.34156/9783791043289
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/BF8KL557/Stöger - 2019 - Wirksames Projektmanagement Mit dem Project Model.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://elibrary.vahlen.de/index.php?doi=10.34156/9783791043289
+      \endverb
+      \verb{url}
+      \verb https://elibrary.vahlen.de/index.php?doi=10.34156/9783791043289
+      \endverb
+    \endentry
+    \entry{stulzRiskManagementFailures2008}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7fc218f05a3550a77ae11d02addb8e94}{%
+           family={Stulz},
+           familyi={S\bibinitperiod},
+           given={René\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{fullhash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{bibnamehash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{authorbibnamehash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{authornamehash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{authorfullhash}{7fc218f05a3550a77ae11d02addb8e94}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The difficulties of the past year have convinced many observers that current risk management practices are deeply flawed, and that such flaws have contributed greatly to the current financial crisis. In this paper, the author challenges this view by showing the need to distinguish between flawed assessments by risk managers and corporate risk-taking decisions that, although resulting in losses, were reasonable at the time they were made. In making this distinction, the paper also identifies a number of different ways that risk management can fail. In addition to choosing the wrong risk metrics and misidentifying or mismeasuring risks, risk managers can fail to communicate their risk assessments and provide effective guidance to top management and boards. And once top management has used that information to help determine the firm's risk appetite and strategy, the risk management function can also fail to monitor risks appropriately and maintain the firm's targeted risk positions. But if risk management has been mistakenly identified as the culprit in many cases, current risk management practice can be improved by taking into account the lessons from financial crises past and present. In particular, such crises have occurred with enough frequency that crisis conditions can be modeled, at least to some extent. And when models reach their limits of usefulness, companies should consider using scenario planning that aims to reveal the implications of crises for their financial health and survival. Instead of relying on past data, scenario planning must use forward-looking economic analysis to evaluate the expected impact of sudden illiquidity and the associated feedback effects that are common in financial crises.}
+      \field{issn}{1745-6622}
+      \field{journaltitle}{Journal of Applied Corporate Finance}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{shorttitle}{Risk {{Management Failures}}}
+      \field{title}{Risk {{Management Failures}}: {{What Are They}} and {{When Do They Happen}}?}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{20}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{39\bibrangedash 48}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1745-6622.2008.00202.x
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/S7WFJ6WG/Stulz - 2008 - Risk Management Failures What Are They and When D.pdf;/Users/lukas/Zotero/storage/2WH72WU6/j.1745-6622.2008.00202.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-6622.2008.00202.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-6622.2008.00202.x
+      \endverb
+    \endentry
+    \entry{suhandaRACIMatrixDesign2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=10643d4f514d266f25ee6959c19f75f9}{%
+           family={Suhanda},
+           familyi={S\bibinitperiod},
+           given={Rahmad},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cd397fd0c1d1a47fa52a840ceaf2d2c}{%
+           family={Pratami},
+           familyi={P\bibinitperiod},
+           given={Devi},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{745ac7d0fdd8b726ae5131fd6657cbf0}
+      \strng{fullhash}{745ac7d0fdd8b726ae5131fd6657cbf0}
+      \strng{bibnamehash}{745ac7d0fdd8b726ae5131fd6657cbf0}
+      \strng{authorbibnamehash}{745ac7d0fdd8b726ae5131fd6657cbf0}
+      \strng{authornamehash}{745ac7d0fdd8b726ae5131fd6657cbf0}
+      \strng{authorfullhash}{745ac7d0fdd8b726ae5131fd6657cbf0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Stakeholders are one of the most significant factors in the success of a project. The creation of good team performance in a project is caused by clear work responsibilities given to each project stakeholder so that stakeholders have responsibility for their work and can complete their work correctly. The responsibility assignment matrix is a method for managing the roles of each resource and describing the relationship between jobs for each job in the project, which is classified into four parts, namely Responsible, Assignment, Consult, and Informed. In this paper, a matrix will be designed to manage the work assignments of each stakeholder involved in the case of delays in project completion at PT. XYZ uses the RACI Matrix method as a guide. The results of the work assignment matrix design in the case study project of PT. XYZ shows that 12 stakeholders are grouped into four classifications according to the RACI components, which are arranged based on the level of interest and responsibility of each stakeholder to the project.}
+      \field{day}{31}
+      \field{journaltitle}{International Journal of Innovation in Enterprise System}
+      \field{month}{7}
+      \field{shortjournal}{International Journal of Innovation in Enterprise System}
+      \field{title}{{{RACI Matrix Design}} for {{Managing Stakeholders}} in {{Project Case Study}} of {{PT}}. {{XYZ}}}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{122\bibrangedash 133}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.25124/ijies.v5i02.134
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/LTDURWF8/Suhanda und Pratami - 2021 - RACI Matrix Design for Managing Stakeholders in Pr.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/354214293_RACI_Matrix_Design_for_Managing_Stakeholders_in_Project_Case_Study_of_PT_XYZ
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/354214293_RACI_Matrix_Design_for_Managing_Stakeholders_in_Project_Case_Study_of_PT_XYZ
+      \endverb
+    \endentry
+    \entry{wilsonGanttChartsCentenary2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de3b709978c6820138c450e2440bc0c5}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{de3b709978c6820138c450e2440bc0c5}
+      \strng{fullhash}{de3b709978c6820138c450e2440bc0c5}
+      \strng{bibnamehash}{de3b709978c6820138c450e2440bc0c5}
+      \strng{authorbibnamehash}{de3b709978c6820138c450e2440bc0c5}
+      \strng{authornamehash}{de3b709978c6820138c450e2440bc0c5}
+      \strng{authorfullhash}{de3b709978c6820138c450e2440bc0c5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{With the proliferation of microcomputer based project management packages Gantt charts have enjoyed a revival in their use. Although Henry L. Gantt is recognized as their developer their origins and provenance are less well known. Gantt was a close associate of Frederick W. Taylor and an advocate of Scientific Management. His paper describing the use of “graphics” for general production planning appeared alongside Taylor’s Shop Management in 1903 and was an integral and critical component of Taylor’s system. Without Gantt’s charts to plan the workloads for men and machines both in departments and throughout the factory Taylor’s system would have been unworkable. The focus of this paper is to describe more fully their development and early history; and review their contemporary uses and future prospects.}
+      \field{day}{1}
+      \field{issn}{0377-2217}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{month}{9}
+      \field{number}{2}
+      \field{series}{Sequencing and {{Scheduling}}}
+      \field{shortjournal}{European Journal of Operational Research}
+      \field{shorttitle}{Gantt Charts}
+      \field{title}{Gantt Charts: {{A}} Centenary Appreciation}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{149}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{430\bibrangedash 437}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/S0377-2217(02)00769-5
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/T59ZH583/S0377221702007695.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0377221702007695
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0377221702007695
+      \endverb
+      \keyw{Gantt charts,Machine loading,Production planning,Project management}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
