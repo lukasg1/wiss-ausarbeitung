@@ -1,0 +1,37 @@
+\chapter*{Anhang}
+\addcontentsline{toc}{chapter}{Anhang}
+\section*{Anhangverzeichnis}
+\vspace{-8em}
+
+% vor \listofanhang müssen Einrückungen angepasst werden
+\abstaendeanhangverzeichnis
+
+\listofanhang
+\clearpage
+\spezialkopfzeile{Anhang} % damit in der Kopfzeile das Wort "Anhang" angezeigt wird
+
+\anhang{Projektrollen und Verantwortlichkeiten}\label{anhang:kap1}
+% \anhangteil{Unterkapitel 1}\label{anhang:ukap1}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\linewidth]{graphics/pr_ve.png}
+  \caption[Rollen und Verantwortlichkeiten in Projekten.]{Rollen und Verantwortlichkeiten in Projekten.\protect\footnotemark}\label{abb:pr_ve}
+\end{figure}
+\footnotetext{\cite[Enthalten in:][90]{stoegerWirksamesProjektmanagementMit2019}}
+\anhang{Discord-Server Organisationsstruktur}\label{anhang:kap2}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.47\linewidth]{graphics/discord.jpg}
+  \caption{Organisationsstruktur eines Discord-Servers.}\label{abb:discord}
+\end{figure}
+\anhang{Risikomatrix}\label{anhang:kap3}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=1\linewidth]{graphics/risikomatrix.png}
+  \caption{Risikomatrix für das vorliegende Projekt.}\label{abb:risikomatrix}
+\end{figure}
+
+
+\lstset{language=TeX, % hervorzuhebende Keywords definieren
+  morekeywords={anhang, anhangteil}
+}
