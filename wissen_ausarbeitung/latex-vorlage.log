@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.6)  6 JUN 2024 14:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.6)  6 JUN 2024 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -751,9 +751,6 @@ Package csquotes Info: ... found 'babel' package.
 
 LaTeX Warning: Label `abb:zeitplanung' multiply defined.
 
-
-LaTeX Warning: Label `abb:zeitplanung' multiply defined.
-
 )
 \openout1 = `latex-vorlage.aux'.
 
@@ -963,7 +960,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) ha
                                                   \__shipout_drop_firstpage_...
 l.84 
      ] [7]
-<graphics/raci.png, id=283, 455.7025pt x 142.5325pt>
+<graphics/raci.png, id=281, 455.7025pt x 142.5325pt>
 File: graphics/raci.png Graphic file (type png)
 <use graphics/raci.png>
 Package pdftex.def Info: graphics/raci.png  used on input line 121.
@@ -975,7 +972,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) h
 l.136     \item \textbf
                        {Themen schnell von der Tagesordnung abhandeln:} Klar... <./graphics/raci.png>]) (includes/04_technisch.tex [9]
 chapter 4.
-<graphics/psp.png, id=311, 307.1475pt x 188.705pt>
+<graphics/psp.png, id=309, 307.1475pt x 188.705pt>
 File: graphics/psp.png Graphic file (type png)
 <use graphics/psp.png>
 Package pdftex.def Info: graphics/psp.png  used on input line 19.
@@ -993,7 +990,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) h
 l.41 \section
              {Backlog und Akzeptanzkriterien für Arbeitspakete} <./graphics/psp.png>]) (includes/05_schnittstellen.tex [11]
 chapter 5.
-<graphics/rapla_model.png, id=371, 456.41946pt x 349.305pt>
+<graphics/rapla_model.png, id=369, 456.41946pt x 349.305pt>
 File: graphics/rapla_model.png Graphic file (type png)
 <use graphics/rapla_model.png>
 Package pdftex.def Info: graphics/rapla_model.png  used on input line 9.
@@ -1009,7 +1006,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5.3}) h
 l.18 
       <./graphics/rapla_model.png>]) (includes/06_zeitplanung.tex [13]
 chapter 6.
-<graphics/zeitplanung.png, id=392, 456.41946pt x 552.77946pt>
+<graphics/zeitplanung.png, id=390, 456.41946pt x 552.77946pt>
 File: graphics/zeitplanung.png Graphic file (type png)
 <use graphics/zeitplanung.png>
 Package pdftex.def Info: graphics/zeitplanung.png  used on input line 34.
@@ -1023,68 +1020,58 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.6.4}) h
 l.49 
       <./graphics/zeitplanung.png>]) (includes/07_risikoregister.tex [16]
 chapter 7.
-<graphics/leitrisiko.png, id=427, 667.49374pt x 437.635pt>
-File: graphics/leitrisiko.png Graphic file (type png)
-<use graphics/leitrisiko.png>
-Package pdftex.def Info: graphics/leitrisiko.png  used on input line 43.
-(pdftex.def)             Requested size: 455.24411pt x 298.48268pt.
-[17
+) (includes/08_loesungsarchitektur.tex [17
 
-]) (includes/08_loesungsarchitektur.tex [18
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.1 \chapter
-            {Skizze der Lösungsarchitektur} <./graphics/leitrisiko.png>]
+]
 chapter 8.
-<graphics/leitfaden.png, id=454, 454.69875pt x 242.40562pt>
+<graphics/leitfaden.png, id=421, 454.69875pt x 242.40562pt>
 File: graphics/leitfaden.png Graphic file (type png)
 <use graphics/leitfaden.png>
 Package pdftex.def Info: graphics/leitfaden.png  used on input line 17.
 (pdftex.def)             Requested size: 409.71692pt x 218.42934pt.
-[19
+[18
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.8.6}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.37 
-      <./graphics/leitfaden.png>] [20]) (includes/09_evaluation.tex [21]
+      <./graphics/leitfaden.png>] [19]) (includes/09_evaluation.tex [20]
 chapter 9.
-) (includes/anhang.tex [22
+) (includes/anhang.tex [21
 
 ] (latex-vorlage.app)
 \tf@app=\write8
 \openout8 = `latex-vorlage.app'.
 
- [23
+ [22
 
 ]
-<graphics/pr_ve.png, id=509, 455.7025pt x 428.60126pt>
+<graphics/pr_ve.png, id=476, 455.7025pt x 428.60126pt>
 File: graphics/pr_ve.png Graphic file (type png)
 <use graphics/pr_ve.png>
 Package pdftex.def Info: graphics/pr_ve.png  used on input line 17.
 (pdftex.def)             Requested size: 364.19667pt x 342.54138pt.
-<graphics/discord.jpg, id=513, 717.68124pt x 1538.74875pt>
+<graphics/discord.jpg, id=480, 717.68124pt x 1538.74875pt>
 File: graphics/discord.jpg Graphic file (type jpg)
 <use graphics/discord.jpg>
 Package pdftex.def Info: graphics/discord.jpg  used on input line 24.
 (pdftex.def)             Requested size: 213.96529pt x 458.74023pt.
- [24
+ [23
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9.7}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.27 \anhang{Risikomatrix}
                           \label{anhang:kap3} <./graphics/pr_ve.png>]
-<graphics/risikomatrix.png, id=521, 858.20625pt x 770.88pt>
+<graphics/risikomatrix.png, id=488, 858.20625pt x 770.88pt>
 File: graphics/risikomatrix.png Graphic file (type png)
 <use graphics/risikomatrix.png>
 Package pdftex.def Info: graphics/risikomatrix.png  used on input line 30.
 (pdftex.def)             Requested size: 455.24411pt x 408.91734pt.
- [25
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9.8}) has been already used, duplicate ignored
+ [24
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.33 
@@ -1108,8 +1095,8 @@ File: lstlang2.sty 2023/02/27 1.9 listings language file
 File: lstlang3.sty 2023/02/27 1.9 listings language file
 ) (C:\Users\David\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-)) [26
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9.9}) has been already used, duplicate ignored
+)) [25
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.72 \clearpage
@@ -1122,15 +1109,15 @@ Overfull \hbox (10.62149pt too wide) in paragraph at lines 73--73
 \T1/cmr/m/n/10.95 gnment. Pro-Quest Dis-ser-ta-ti-ons Pu-blis-hing. \T1/cmr/m/sc/10.95 isbn\T1/cmr/m/n/10.95 : 9781267627001. \T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 : []$\T1/cmtt/m/n/10.95 https : / / www . proquest .
  []
 
-[27
+[26
 
 
-] [28]
+] [27]
 Overfull \hbox (15.04686pt too wide) in paragraph at lines 73--73
 \T1/cmtt/m/n/10.95 Engineering -[] Erfahrungen -[] in -[] Projekten -[] der -[] Automobilindustrie . pdf$[] \T1/cmr/m/n/10.95 (Ab-ruf: 11.01.2024). 
  []
 
-[29] [30] [31] (latex-vorlage.aux)
+[28] [29] (latex-vorlage.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1149,17 +1136,17 @@ Package logreq Info: Writing requests to 'latex-vorlage.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27556 strings out of 474486
- 566276 string characters out of 5743756
- 1952542 words of memory out of 5000000
- 49243 multiletter control sequences out of 15000+600000
+ 27485 strings out of 474486
+ 564062 string characters out of 5743756
+ 1950542 words of memory out of 5000000
+ 49186 multiletter control sequences out of 15000+600000
  575240 words of font info for 67 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,18n,107p,11029b,2369s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk>
-Output written on latex-vorlage.pdf (36 pages, 1902507 bytes).
+Output written on latex-vorlage.pdf (34 pages, 1831174 bytes).
 PDF statistics:
- 1458 PDF objects out of 1728 (max. 8388607)
- 203 named destinations out of 1000 (max. 500000)
- 294 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1401 PDF objects out of 1440 (max. 8388607)
+ 189 named destinations out of 1000 (max. 500000)
+ 289 words of extra memory for PDF output out of 10000 (max. 10000000)
 

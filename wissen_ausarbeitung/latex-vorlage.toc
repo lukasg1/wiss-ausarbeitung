@@ -21,12 +21,12 @@
 \contentsline {chapter}{\numberline {5}Schnittstellen und Zusammenarbeit mit anderen Projekten}{12}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Zeitplanung}{14}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Risikoregister}{17}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Skizze der Lösungsarchitektur}{19}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Planung und Vorbereitung der Interviews}{19}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Entwicklung und Durchführung der Interviews}{19}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Integration des Wissensquiz und der Zertifizierung in Moodle}{20}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Gestaltung von Schulungsaufgaben}{21}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Bedeutung von Testläufen in der Entwicklung}{21}{section.8.5}%
-\contentsline {chapter}{\numberline {9}Abschließende Evaluation}{22}{chapter.9}%
-\contentsline {chapter}{Anhang}{23}{chapter*.9}%
-\contentsline {chapter}{Literaturverzeichnis}{27}{section*.14}%
+\contentsline {chapter}{\numberline {8}Skizze der Lösungsarchitektur}{18}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Planung und Vorbereitung der Interviews}{18}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Entwicklung und Durchführung der Interviews}{18}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Integration des Wissensquiz und der Zertifizierung in Moodle}{19}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Gestaltung von Schulungsaufgaben}{20}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Bedeutung von Testläufen in der Entwicklung}{20}{section.8.5}%
+\contentsline {chapter}{\numberline {9}Abschließende Evaluation}{21}{chapter.9}%
+\contentsline {chapter}{Anhang}{22}{chapter*.9}%
+\contentsline {chapter}{Literaturverzeichnis}{26}{section*.14}%
