@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'latex-vorlage.blg'
+[81] biber:340> INFO - === Thu Jun  6, 2024, 15:22:52
+[102] Biber.pm:419> INFO - Reading 'latex-vorlage.bcf'
+[194] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
+[208] Biber.pm:4419> INFO - Processing section 0
+[220] Biber.pm:4610> INFO - Looking for bibtex file 'includes/literatur.bib' for section 0
+[227] bibtex.pm:1713> INFO - LaTeX decoding ...
+[309] bibtex.pm:1519> INFO - Found BibTeX data source 'includes/literatur.bib'
+[415] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[415] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[415] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[415] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[432] bbl.pm:660> INFO - Writing 'latex-vorlage.bbl' with encoding 'UTF-8'
+[438] bbl.pm:763> INFO - Output to latex-vorlage.bbl
+[438] Biber.pm:131> WARN - ISBN '978-3-658-12003-0 978-3-658-12004-7' in entry 'koenigsITRisikomanagementMitSystem2017' is invalid - run biber with '--validate_datamodel' for details.
+[438] Biber.pm:131> WARN - ISBN '978-3-658-04429-9 978-3-658-04430-5' in entry 'brandstaeterAgileITProjekteErfolgreich2013' is invalid - run biber with '--validate_datamodel' for details.
+[438] Biber.pm:131> WARN - ISBN '978-3-531-17809-7 978-3-531-18939-0' in entry 'baurHandbuchMethodenEmpirischen2014' is invalid - run biber with '--validate_datamodel' for details.
+[438] Biber.pm:133> INFO - WARNINGS: 3

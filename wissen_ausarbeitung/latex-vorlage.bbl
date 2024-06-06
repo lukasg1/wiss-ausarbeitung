@@ -1,0 +1,448 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{agambaExploringFacultyIntegration2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=afe59f23694979a4b08552dce7727246}{%
+           family={Agamba},
+           familyi={A\bibinitperiod},
+           given={Joachim\bibnamedelima Jack},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {ProQuest Dissertations Publishing}%
+      }
+      \strng{namehash}{afe59f23694979a4b08552dce7727246}
+      \strng{fullhash}{afe59f23694979a4b08552dce7727246}
+      \strng{bibnamehash}{afe59f23694979a4b08552dce7727246}
+      \strng{authorbibnamehash}{afe59f23694979a4b08552dce7727246}
+      \strng{authornamehash}{afe59f23694979a4b08552dce7727246}
+      \strng{authorfullhash}{afe59f23694979a4b08552dce7727246}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Higher education institutions have been noted to be lacking in increasing the utilization of technology for student achievement. The lack of motivation by individual faculty members to optimize their use of technology has been identified as one of the main problems affecting appropriate technology use. The purpose of this research was to determine whether theory-based training on performance objectives, Moodle resource integration, and their alignment, will affect the frequency and quality of integrating those resources. Faculty in a health professions department at a Carnegie-classified, doctoral research university-high in the intermountain west region were recruited to participate in this study. The study examined faculty Moodle course sites following training in developing performance objectives and aligning those objectives with specific Moodle resources, and obtained faculty interviews on barriers and concerns affecting optimal use of Moodle as well as the effects of a theory-based instructional workshop training. The study explored to what degree health professions faculty selected Moodle tools based on stated objectives and theoretical constructs as a learner-centered approach to instruction and their perceived alignment with such Moodle resources and determined their receptivity to a framework designed to guide such resource utility and integration. Results of the study indicated that among other factors, time constraints, passive resistance to change, and lack of awareness of theoretical and pedagogical rationales for Moodle tool selection accounted for a lack of faculty optimal Moodle tool variations selection and integration in their instructional practice.}
+      \field{isbn}{9781267627001}
+      \field{langid}{english}
+      \field{shorttitle}{Exploring Faculty Integration of {{Moodle}} Resources}
+      \field{title}{Exploring Faculty Integration of {{Moodle}} Resources: {{Effects}} of Theory-Based Training on Performance Objectives, {{Moodle}} Resource Integration, and Their Alignment}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.proquest.com/docview/1054247453/abstract/A6AE7067FC484F9BPQ/1
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/docview/1054247453/abstract/A6AE7067FC484F9BPQ/1
+      \endverb
+    \endentry
+    \entry{baurHandbuchMethodenEmpirischen2014}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=0261d1837dffcaf5e3582e1e6f01aeaa}{%
+           family={Baur},
+           familyi={B\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b63a5766c877d465f4d5669bd898b42}{%
+           family={Blasius},
+           familyi={B\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{fullhash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{bibnamehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editorbibnamehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editornamehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editorfullhash}{3e347cdcc7b6277be59b54152b579a12}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-531-17809-7 978-3-531-18939-0}
+      \field{langid}{ngerman}
+      \field{title}{Handbuch Methoden der empirischen Sozialforschung}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-531-18939-0
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/64D4N3WU/Baur und Blasius - 2014 - Handbuch Methoden der empirischen Sozialforschung.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-531-18939-0
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-531-18939-0
+      \endverb
+    \endentry
+    \entry{brandstaeterAgileITProjekteErfolgreich2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81d77692c77eadc6ca1fdc930fb798e4}{%
+           family={Brandstäter},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{fullhash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{bibnamehash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{authorbibnamehash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{authornamehash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \strng{authorfullhash}{81d77692c77eadc6ca1fdc930fb798e4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-658-04429-9 978-3-658-04430-5}
+      \field{langid}{ngerman}
+      \field{shorttitle}{Agile IT-Projekte erfolgreich gestalten}
+      \field{title}{Agile IT-Projekte erfolgreich gestalten: Risikomanagement als Ergänzung zu Scrum}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-04430-5
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/QYWZ3PCM/Brandstäter - 2013 - Agile IT-Projekte erfolgreich gestalten Risikoman.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-658-04430-5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-658-04430-5
+      \endverb
+      \keyw{Agiles Projektmanagement,Projektmanagement in IT-Projekten,Risiken in der Softwareentwicklung,Risiko und PMI,Risikomanagement für IT-Projekte,Risikomanagement für Scrum}
+    \endentry
+    \entry{dikmenLearningRisksTool2008}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=372028d4e3950d1aa9e4048f883c9682}{%
+           family={Dikmen},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3e2e0176c48a95a56c5b298565b0543}{%
+           family={Birgonul},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b29e6526ede341e98fa1589706958cd}{%
+           family={Anac},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f107ba90ac684ce80a420b0a18807a3}{%
+           family={Tah},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi H.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2889f832fdd4963699d6b86881657276}{%
+           family={Aouad},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f619ca1d547067589c4c5eebe4cb153f}
+      \strng{fullhash}{47efc35f791cc8b2cf01da995d2b008e}
+      \strng{bibnamehash}{47efc35f791cc8b2cf01da995d2b008e}
+      \strng{authorbibnamehash}{47efc35f791cc8b2cf01da995d2b008e}
+      \strng{authornamehash}{f619ca1d547067589c4c5eebe4cb153f}
+      \strng{authorfullhash}{47efc35f791cc8b2cf01da995d2b008e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Risk management (RM) comprises of risk identification, risk analysis, response planning, monitoring and action planning tasks that are carried out throughout the life cycle of a project in order to ensure that project objectives are met. Although the methodological aspects of RM are well-defined, the philosophical background is rather vague. In this paper, a learning-based approach is proposed. In order to implement this approach in practice, a tool has been developed to facilitate construction of a lessons learned database that contains risk-related information and risk assessment throughout the life cycle of a project. The tool is tested on a real construction project. The case study findings demonstrate that it can be used for storing as well as updating risk-related information and finally, carrying out a post-project appraisal. The major weaknesses of the tool are identified as, subjectivity of the risk rating process and unwillingness of people to enter information about reasons of failure.}
+      \field{day}{1}
+      \field{issn}{0926-5805}
+      \field{journaltitle}{Automation in Construction}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{Automation in Construction}
+      \field{shorttitle}{Learning from Risks}
+      \field{title}{Learning from Risks: {{A}} Tool for Post-Project Risk Assessment}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{18}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{42\bibrangedash 50}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.autcon.2008.04.008
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/4QALW993/Dikmen et al. - 2008 - Learning from risks A tool for post-project risk .pdf;/Users/lukas/Zotero/storage/BHGC2PBU/S0926580508000691.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0926580508000691
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0926580508000691
+      \endverb
+      \keyw{Lessons learned,Post-project appraisal,Risk management,Vulnerability}
+    \endentry
+    \entry{koenigsITRisikomanagementMitSystem2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0643146ac56de719536d1ebdb1458147}{%
+           family={Königs},
+           familyi={K\bibinitperiod},
+           given={Hans-Peter},
+           giveni={H\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{0643146ac56de719536d1ebdb1458147}
+      \strng{fullhash}{0643146ac56de719536d1ebdb1458147}
+      \strng{bibnamehash}{0643146ac56de719536d1ebdb1458147}
+      \strng{authorbibnamehash}{0643146ac56de719536d1ebdb1458147}
+      \strng{authornamehash}{0643146ac56de719536d1ebdb1458147}
+      \strng{authorfullhash}{0643146ac56de719536d1ebdb1458147}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-12003-0 978-3-658-12004-7}
+      \field{langid}{ngerman}
+      \field{title}{IT-Risikomanagement mit System}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-12004-7
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/C8ZG49UG/Königs - 2017 - IT-Risikomanagement mit System.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-658-12004-7
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-658-12004-7
+      \endverb
+      \keyw{Business Continuity Management,CIO,Compliance,Corporate Governance,Datenschutz-Praxis,Informations-Sicherheit,IT Governance,IT Risikomanagement,IT-Grundschutz,IT-Risiken,IT-Risiko-Management,IT-Risikomanagement,IT-Sicherheit,IT-Strategie,KES,Risiko-Management-Prozess,Risikomanagement,Unternehmensrisiken}
+    \endentry
+    \entry{schweighoferDevelopmentQuizImplementation2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=51d79114e009fa25732b7088dcc7fe5a}{%
+           family={Schweighofer},
+           familyi={S\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76aa3ffd462bdbe8a8f50672c66fd0b9}{%
+           family={Taraghi},
+           familyi={T\bibinitperiod},
+           given={Behnam},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c1e37bddb3178581978b467dea5df20}{%
+           family={Ebner},
+           familyi={E\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{fullhash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{bibnamehash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{authorbibnamehash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{authornamehash}{f134b4b1592f3e963e32118c6f1767e0}
+      \strng{authorfullhash}{f134b4b1592f3e963e32118c6f1767e0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Technology Enhanced Learning has become more popular in recent times and many organizations and universities use it as a key instrument in various teaching and training scenarios. At the University of Technology of Graz, some courses require randomized quizzes where question variables can be assigned by arbitrary mathematical functions and this feature is missing in the current solutions. This article describes the development of a quiz application that can be integrated into Moodle by utilization of the Learning Tools Interoperability protocol (LTI). The PHP application is built to support programmable questions that can contain JavaScript and HTML code. Teachers are able to build interactive, randomized quizzes, in which the random variables can be assigned with complex mathematical functions. Furthermore, the application provides a programmable grading mechanism. With this mechanism, it is possible for students to self-assess their performance, as well as for teachers to formally assess their students' learning success automatically and send the results back to Moodle (or other LTI compatible consumer applications).}
+      \field{day}{6}
+      \field{journaltitle}{International Journal of Emerging Technologies in Learning (iJET)}
+      \field{month}{12}
+      \field{shortjournal}{International Journal of Emerging Technologies in Learning (iJET)}
+      \field{title}{Development of a {{Quiz}} – {{Implementation}} of a ({{Self-}}) {{Assessment Tool}} and Its {{Integration}} in {{Moodle}}}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{141}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3991/ijet.v14i23.11484
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/P597VCVS/Schweighofer et al. - 2019 - Development of a Quiz – Implementation of a (Self-.pdf
+      \endverb
+    \endentry
+    \entry{stoegerWirksamesProjektmanagementMit2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93cbdeb25553674b75a2ba37530db248}{%
+           family={Stöger},
+           familyi={S\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Schäffer-Poeschel}%
+      }
+      \strng{namehash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{fullhash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{bibnamehash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{authorbibnamehash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{authornamehash}{93cbdeb25553674b75a2ba37530db248}
+      \strng{authorfullhash}{93cbdeb25553674b75a2ba37530db248}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-7910-4328-9}
+      \field{langid}{ngerman}
+      \field{shorttitle}{Wirksames Projektmanagement}
+      \field{title}{Wirksames Projektmanagement: Mit dem Project Model Canvas zu Resultaten}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.34156/9783791043289
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/BF8KL557/Stöger - 2019 - Wirksames Projektmanagement Mit dem Project Model.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://elibrary.vahlen.de/index.php?doi=10.34156/9783791043289
+      \endverb
+      \verb{url}
+      \verb https://elibrary.vahlen.de/index.php?doi=10.34156/9783791043289
+      \endverb
+    \endentry
+    \entry{stulzRiskManagementFailures2008}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7fc218f05a3550a77ae11d02addb8e94}{%
+           family={Stulz},
+           familyi={S\bibinitperiod},
+           given={René\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{fullhash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{bibnamehash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{authorbibnamehash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{authornamehash}{7fc218f05a3550a77ae11d02addb8e94}
+      \strng{authorfullhash}{7fc218f05a3550a77ae11d02addb8e94}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The difficulties of the past year have convinced many observers that current risk management practices are deeply flawed, and that such flaws have contributed greatly to the current financial crisis. In this paper, the author challenges this view by showing the need to distinguish between flawed assessments by risk managers and corporate risk-taking decisions that, although resulting in losses, were reasonable at the time they were made. In making this distinction, the paper also identifies a number of different ways that risk management can fail. In addition to choosing the wrong risk metrics and misidentifying or mismeasuring risks, risk managers can fail to communicate their risk assessments and provide effective guidance to top management and boards. And once top management has used that information to help determine the firm's risk appetite and strategy, the risk management function can also fail to monitor risks appropriately and maintain the firm's targeted risk positions. But if risk management has been mistakenly identified as the culprit in many cases, current risk management practice can be improved by taking into account the lessons from financial crises past and present. In particular, such crises have occurred with enough frequency that crisis conditions can be modeled, at least to some extent. And when models reach their limits of usefulness, companies should consider using scenario planning that aims to reveal the implications of crises for their financial health and survival. Instead of relying on past data, scenario planning must use forward-looking economic analysis to evaluate the expected impact of sudden illiquidity and the associated feedback effects that are common in financial crises.}
+      \field{issn}{1745-6622}
+      \field{journaltitle}{Journal of Applied Corporate Finance}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{shorttitle}{Risk {{Management Failures}}}
+      \field{title}{Risk {{Management Failures}}: {{What Are They}} and {{When Do They Happen}}?}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{20}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{39\bibrangedash 48}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1745-6622.2008.00202.x
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/S7WFJ6WG/Stulz - 2008 - Risk Management Failures What Are They and When D.pdf;/Users/lukas/Zotero/storage/2WH72WU6/j.1745-6622.2008.00202.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-6622.2008.00202.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-6622.2008.00202.x
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
