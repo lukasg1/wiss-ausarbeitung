@@ -2367,13 +2367,7 @@
     <bcf:citekey order="5" intorder="1">dikmenLearningRisksTool2008</bcf:citekey>
     <bcf:citekey order="6" intorder="1">brandstaeterAgileITProjekteErfolgreich2013</bcf:citekey>
     <bcf:citekey order="7" intorder="1">brandstaeterAgileITProjekteErfolgreich2013</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">baurHandbuchMethodenEmpirischen2014</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">baurHandbuchMethodenEmpirischen2014</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">baurHandbuchMethodenEmpirischen2014</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">baurHandbuchMethodenEmpirischen2014</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">schweighoferDevelopmentQuizImplementation2019</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">agambaExploringFacultyIntegration2012</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">stoegerWirksamesProjektmanagementMit2019</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">stoegerWirksamesProjektmanagementMit2019</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
