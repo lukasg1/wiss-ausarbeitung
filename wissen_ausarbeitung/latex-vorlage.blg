@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'latex-vorlage.blg'
-[91] biber:340> INFO - === Tue Jun 11, 2024, 22:39:05
-[123] Biber.pm:419> INFO - Reading 'latex-vorlage.bcf'
-[227] Biber.pm:979> INFO - Found 6 citekeys in bib section 0
-[243] Biber.pm:4419> INFO - Processing section 0
-[255] Biber.pm:4610> INFO - Looking for bibtex file 'includes/Wiss-Ausarbeitung.bib' for section 0
-[259] bibtex.pm:1713> INFO - LaTeX decoding ...
-[273] bibtex.pm:1519> INFO - Found BibTeX data source 'includes/Wiss-Ausarbeitung.bib'
-[397] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[397] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[398] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
-[398] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[415] bbl.pm:660> INFO - Writing 'latex-vorlage.bbl' with encoding 'UTF-8'
-[422] bbl.pm:763> INFO - Output to latex-vorlage.bbl
-[423] Biber.pm:131> WARN - ISBN '978-3-319-07054-4 978-3-319-07055-1' in entry 'paaERPEndUserTrainingELearning2014' is invalid - run biber with '--validate_datamodel' for details.
-[423] Biber.pm:131> WARN - I didn't find a database entry for 'stoegerWirksamesProjektmanagementMit2019' (section 0)
-[423] Biber.pm:133> INFO - WARNINGS: 2
+[80] biber:340> INFO - === Wed Jun 12, 2024, 00:06:53
+[101] Biber.pm:419> INFO - Reading 'latex-vorlage.bcf'
+[207] Biber.pm:979> INFO - Found 6 citekeys in bib section 0
+[222] Biber.pm:4419> INFO - Processing section 0
+[235] Biber.pm:4610> INFO - Looking for bibtex file 'includes/Wiss-Ausarbeitung.bib' for section 0
+[237] bibtex.pm:1713> INFO - LaTeX decoding ...
+[251] bibtex.pm:1519> INFO - Found BibTeX data source 'includes/Wiss-Ausarbeitung.bib'
+[357] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[357] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[357] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[357] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[370] bbl.pm:660> INFO - Writing 'latex-vorlage.bbl' with encoding 'UTF-8'
+[376] bbl.pm:763> INFO - Output to latex-vorlage.bbl
+[376] Biber.pm:131> WARN - ISBN '978-3-319-07054-4 978-3-319-07055-1' in entry 'paaERPEndUserTrainingELearning2014' is invalid - run biber with '--validate_datamodel' for details.
+[376] Biber.pm:131> WARN - I didn't find a database entry for 'stoegerWirksamesProjektmanagementMit2019' (section 0)
+[376] Biber.pm:133> INFO - WARNINGS: 2

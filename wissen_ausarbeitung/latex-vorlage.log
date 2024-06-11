@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.31)  11 JUN 2024 22:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.31)  12 JUN 2024 00:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -918,58 +918,59 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] (./includes/01_einleitung.tex
 chapter 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 5.
+(Font)              <9> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
+(Font)              <5> on input line 7.
 Package acronym Info: Label `acro:RAPLA' newly defined as it shall be overridden
-although it is yet undefined on input line 20.
+although it is yet undefined on input line 24.
 Package acronym Info: Label `acro:DHBW' newly defined as it shall be overridden
-although it is yet undefined on input line 20.
-Package acronym Info: Label `acro:SLA' newly defined as it shall be overridden
-although it is yet undefined on input line 25.
+although it is yet undefined on input line 24.
 [1
 
 
 
-]) (./includes/02_theorie.tex [2]
+]
+Package acronym Info: Label `acro:SLA' newly defined as it shall be overridden
+although it is yet undefined on input line 56.
+ [2]) (./includes/02_theorie.tex [3]
 chapter 2.
-) (./includes/03_projektbeschreibung.tex [3
+) (./includes/03_projektbeschreibung.tex [4
 
 ]
 chapter 3.
-) (./includes/04_konzeption.tex [4
+) (./includes/04_konzeption.tex [5
 
 ]
 chapter 4.
-) (./includes/05_umsetzung.tex [5
+) (./includes/05_umsetzung.tex [6
 
 ]
 chapter 5.
-) (./includes/06_erprobung.tex [6
+) (./includes/06_erprobung.tex [7
 
 ]
 chapter 6.
-) (./includes/07_fazit.tex [7
+) (./includes/07_fazit.tex [8
 
 ]
 chapter 7.
-) (./includes/anhang.tex [8
+) (./includes/anhang.tex [9
 
 ] (./latex-vorlage.app)
 \tf@app=\write8
 \openout8 = `latex-vorlage.app'.
 
- [9
+ [10
 
 ]
-<graphics/pr_ve.png, id=202, 455.7025pt x 428.60126pt>
+<graphics/pr_ve.png, id=211, 455.7025pt x 428.60126pt>
 File: graphics/pr_ve.png Graphic file (type png)
 <use graphics/pr_ve.png>
 Package pdftex.def Info: graphics/pr_ve.png  used on input line 17.
 (pdftex.def)             Requested size: 364.19667pt x 342.54138pt.
 
 
-LaTeX Warning: Citation 'stoegerWirksamesProjektmanagementMit2019' on page 10 undefined on input line 20.
+LaTeX Warning: Citation 'stoegerWirksamesProjektmanagementMit2019' on page 11 undefined on input line 20.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
@@ -991,7 +992,7 @@ File: lstlang2.sty 2023/02/27 1.9 listings language file
 File: lstlang3.sty 2023/02/27 1.9 listings language file
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-)) [10
+)) [11
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) has been already used, duplicate ignored
@@ -1007,7 +1008,7 @@ Overfull \hbox (36.6053pt too wide) in paragraph at lines 71--71
 \T1/cmtt/m/n/10.95 ist . psu . edu / document ? repid = rep1 & type = pdf & doi = 8e0f8a6e266db7eb5f6a1be5384ea4bbae0e123e$[]
  []
 
-[11
+[12
 
 
 ] (./latex-vorlage.aux)
@@ -1018,18 +1019,18 @@ Package logreq Info: Writing requests to 'latex-vorlage.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27051 strings out of 476025
- 546261 string characters out of 5790017
+ 27053 strings out of 476025
+ 546284 string characters out of 5790017
  1868388 words of memory out of 5000000
- 47024 multiletter control sequences out of 15000+600000
+ 47025 multiletter control sequences out of 15000+600000
  529893 words of font info for 63 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,17n,106p,10655b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on latex-vorlage.pdf (17 pages, 760778 bytes).
+Output written on latex-vorlage.pdf (18 pages, 762499 bytes).
 PDF statistics:
- 435 PDF objects out of 1000 (max. 8388607)
- 379 compressed objects within 4 object streams
- 80 named destinations out of 1000 (max. 500000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 387 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
  302 words of extra memory for PDF output out of 10000 (max. 10000000)
 
