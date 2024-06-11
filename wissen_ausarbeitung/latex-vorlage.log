@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.31)  6 JUN 2024 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.31)  11 JUN 2024 22:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -847,7 +847,15 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'latex-vorlage.bbl' found.
- (./latex-vorlage.bbl)
+ (./latex-vorlage.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                stoegerWirksamesProjektmanagementMit2019
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 13.
 Package biblatex Info: Reference segment=0 on input line 13.
 Package hyperref Info: Link coloring OFF on input line 13.
@@ -892,50 +900,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2
 
 
-] [3] (./includes/abkuerzungen.tex
-
-LaTeX Warning: Hyper reference `acro:DHBW' on page IV undefined on input line 6.
-
-
-LaTeX Warning: Hyper reference `acro:DHBW' on page IV undefined on input line 6.
-
-
-LaTeX Warning: Hyper reference `acro:DIN' on page IV undefined on input line 7.
-
-
-LaTeX Warning: Hyper reference `acro:DIN' on page IV undefined on input line 7.
-
-
-LaTeX Warning: Hyper reference `acro:ERP' on page IV undefined on input line 8.
-
-
-LaTeX Warning: Hyper reference `acro:ERP' on page IV undefined on input line 8.
-
-
-LaTeX Warning: Hyper reference `acro:MVP' on page IV undefined on input line 9.
-
-
-LaTeX Warning: Hyper reference `acro:MVP' on page IV undefined on input line 9.
-
-
-LaTeX Warning: Hyper reference `acro:PM' on page IV undefined on input line 10.
-
-
-LaTeX Warning: Hyper reference `acro:PM' on page IV undefined on input line 10.
-
-
-LaTeX Warning: Hyper reference `acro:RACI' on page IV undefined on input line 11.
-
-
-LaTeX Warning: Hyper reference `acro:RACI' on page IV undefined on input line 11.
-
-
-LaTeX Warning: Hyper reference `acro:RAPLA' on page IV undefined on input line 12.
-
-
-LaTeX Warning: Hyper reference `acro:RAPLA' on page IV undefined on input line 12.
-
-) [4
+] [3] (./includes/abkuerzungen.tex) [4
 
 
 ] (./latex-vorlage.lof)
@@ -952,85 +917,61 @@ LaTeX Warning: Hyper reference `acro:RAPLA' on page IV undefined on input line 1
 
 ] (./includes/01_einleitung.tex
 chapter 1.
-) (./includes/02_theorie.tex [1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+Package acronym Info: Label `acro:RAPLA' newly defined as it shall be overridden
+although it is yet undefined on input line 20.
+Package acronym Info: Label `acro:DHBW' newly defined as it shall be overridden
+although it is yet undefined on input line 20.
+Package acronym Info: Label `acro:SLA' newly defined as it shall be overridden
+although it is yet undefined on input line 25.
+[1
 
 
 
-]
+]) (./includes/02_theorie.tex [2]
 chapter 2.
-) (./includes/03_projektbeschreibung.tex [2
+) (./includes/03_projektbeschreibung.tex [3
 
 ]
 chapter 3.
-) (./includes/04_konzeption.tex [3
+) (./includes/04_konzeption.tex [4
 
 ]
 chapter 4.
-) (./includes/05_umsetzung.tex [4
+) (./includes/05_umsetzung.tex [5
 
 ]
 chapter 5.
-) (./includes/06_erprobung.tex [5
+) (./includes/06_erprobung.tex [6
 
 ]
 chapter 6.
-) (./includes/07_diskussion.tex [6
+) (./includes/07_fazit.tex [7
 
 ]
 chapter 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 9.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 9.
-[7
+) (./includes/anhang.tex [8
 
-]
-<graphics/leitrisiko.png, id=182, 667.49374pt x 437.635pt>
-File: graphics/leitrisiko.png Graphic file (type png)
-<use graphics/leitrisiko.png>
-Package pdftex.def Info: graphics/leitrisiko.png  used on input line 47.
-(pdftex.def)             Requested size: 455.24411pt x 298.48268pt.
-) [8
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.59 
-      <./graphics/leitrisiko.png>] (./includes/anhang.tex [9] (./latex-vorlage.app)
+] (./latex-vorlage.app)
 \tf@app=\write8
 \openout8 = `latex-vorlage.app'.
 
- [10
+ [9
 
 ]
-<graphics/pr_ve.png, id=207, 455.7025pt x 428.60126pt>
+<graphics/pr_ve.png, id=202, 455.7025pt x 428.60126pt>
 File: graphics/pr_ve.png Graphic file (type png)
 <use graphics/pr_ve.png>
 Package pdftex.def Info: graphics/pr_ve.png  used on input line 17.
 (pdftex.def)             Requested size: 364.19667pt x 342.54138pt.
-<graphics/discord.jpg, id=211, 717.68124pt x 1538.74875pt>
-File: graphics/discord.jpg Graphic file (type jpg)
-<use graphics/discord.jpg>
-Package pdftex.def Info: graphics/discord.jpg  used on input line 24.
-(pdftex.def)             Requested size: 213.96529pt x 458.74023pt.
- [11
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.27 \anhang{Risikomatrix}
-                          \label{anhang:kap3} <./graphics/pr_ve.png>]
-<graphics/risikomatrix.png, id=219, 858.20625pt x 770.88pt>
-File: graphics/risikomatrix.png Graphic file (type png)
-<use graphics/risikomatrix.png>
-Package pdftex.def Info: graphics/risikomatrix.png  used on input line 30.
-(pdftex.def)             Requested size: 455.24411pt x 408.91734pt.
- [12
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.33 
-      <./graphics/discord.jpg>] (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
+LaTeX Warning: Citation 'stoegerWirksamesProjektmanagementMit2019' on page 10 undefined on input line 20.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2023/02/27 1.9 listings language file
@@ -1050,22 +991,26 @@ File: lstlang2.sty 2023/02/27 1.9 listings language file
 File: lstlang3.sty 2023/02/27 1.9 listings language file
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-)) [13
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7.4}) has been already used, duplicate ignored
+)) [10
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.70 \clearpage
-                <./graphics/risikomatrix.png>]
+                <./graphics/pr_ve.png>]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 71.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-) [14
+)
+Overfull \hbox (36.6053pt too wide) in paragraph at lines 71--71
+\T1/cmtt/m/n/10.95 ist . psu . edu / document ? repid = rep1 & type = pdf & doi = 8e0f8a6e266db7eb5f6a1be5384ea4bbae0e123e$[]
+ []
+
+[11
 
 
 ] (./latex-vorlage.aux)
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `latex-vorlage.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'latex-vorlage.run.xml'.
@@ -1073,18 +1018,18 @@ Package logreq Info: Writing requests to 'latex-vorlage.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27094 strings out of 476025
- 547424 string characters out of 5790017
+ 27051 strings out of 476025
+ 546261 string characters out of 5790017
  1868388 words of memory out of 5000000
- 47054 multiletter control sequences out of 15000+600000
- 529117 words of font info for 62 fonts, out of 8000000 for 9000
+ 47024 multiletter control sequences out of 15000+600000
+ 529893 words of font info for 63 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,17n,106p,10655b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on latex-vorlage.pdf (20 pages, 1293322 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on latex-vorlage.pdf (17 pages, 760778 bytes).
 PDF statistics:
- 451 PDF objects out of 1000 (max. 8388607)
- 389 compressed objects within 4 object streams
- 90 named destinations out of 1000 (max. 500000)
- 317 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 435 PDF objects out of 1000 (max. 8388607)
+ 379 compressed objects within 4 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 302 words of extra memory for PDF output out of 10000 (max. 10000000)
 
