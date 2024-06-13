@@ -1,34 +1,30 @@
 \chapter{Technische Umsetzung}
 \section{Anforderungen und Rahmenbedingungen}
-Als Anforderungen und Rahmenbedingungen für die technische Umsetzung des Projektes
-werden die folgenden Punkte festgelegt:
-\section{Programmatische Konfiguration in Moodle}
-\section{Gestaltung der Zertifizierung}
-David
+Durch Befragungen der beteiligten Stakeholder können als Anforderungen 
+und Rahmenbedingungen für die technische Umsetzung des Projektes 
+folgende Aspekte identifiziert werden:
+\begin{enumerate}
+    \item Unterteilung in Wissensquiz und Zertifizierung: Es muss eine klare Unterteilung in ein Wissensquiz und eine Zertifizierung geben. Das Wissensquiz dient als Vorbereitung für die Zertifizierung.
+    \item Funktion des Wissensquiz: Das Wissensquiz soll sowohl zur Lernkontrolle als auch zur Lernunterstützung verwendet werden. Die Lernunterstützung erfolgt durch Feedback, das den Lernenden dabei hilft, ihre Kenntnisse zu verbessern.
+    \item Vielfalt der Fragen: Es sollte eine ausreichende Anzahl an Fragen zur Verfügung stehen, die sich in ihrer Komplexität unterscheiden. Diese Fragen müssen verschiedene Schwierigkeitsgrade abdecken, von einfachen Definitionen bis hin zu komplexen Anwendungsaufgaben, die Transferdenken erfordern.    
+    \item Integration der Zertifizierung in Moodle: Es muss eine Möglichkeit geben, die Zertifizierung in Moodle zu integrieren. Die Zertifizierung soll personalisiert und automatisiert erstellt werden und nach Abschluss in Form eines PDF-Dokuments exportiert werden können.
+\end{enumerate}
+\section{Programmatische Konfiguration in Moodle \color{red} (noch überarbeiten)}
+Dieser Abschnitt befasst sich mit der detaillierten programmatischen Konfiguration in Moodle, um die oben genannten Anforderungen und Rahmenbedingungen zu erfüllen. Die Konfiguration umfasst folgende Aspekte:
+\begin{enumerate}
+    \item Erstellung und Verwaltung von Quizfragen: Beschreibung der Methoden zur Erstellung und Verwaltung von Quizfragen in Moodle, einschließlich der Verwendung von Fragebanken und Kategorien.
+    \item Automatisiertes Feedback: Implementierung von automatisiertem Feedback für die Quizfragen, um die Lernunterstützung zu gewährleisten.
+    \item Integration von Zertifizierungen: Schritte zur Integration der Zertifizierungen in Moodle, einschließlich der Verwendung von Plugins und benutzerdefinierten Scripts.
+    \item Personalisierung der Zertifikate: Techniken zur Personalisierung der Zertifikate, basierend auf den individuellen Leistungen der Lernenden.
+\end{enumerate}
+\section{Gestaltung der Zertifizierung \color{red} (noch überarbeiten)}
+In diesem Kapitel wird die Gestaltung der Zertifizierung behandelt, um sicherzustellen, dass sie den Anforderungen der Stakeholder entspricht und eine hohe Akzeptanz bei den Nutzern findet. Die Gestaltung umfasst folgende Bereiche:
+\begin{enumerate}
+    \item Design der Zertifikate: Beschreibung der visuellen und inhaltlichen Gestaltung der Zertifikate, einschließlich Layout, Logos und Unterschriften.
+    \item Automatisierung der Zertifikatserstellung: Technische Umsetzung der automatisierten Erstellung und Verteilung der Zertifikate nach Abschluss des Wissensquizzes und der Zertifizierung.
+    \item Benutzerfreundlichkeit: Sicherstellung, dass der Prozess der Zertifizierung für die Benutzer einfach und intuitiv ist, einschließlich klarer Anweisungen und Hilfestellungen während des Prozesses.
+    \item Evaluation und Feedback: Implementierung von Mechanismen zur Evaluation der Zertifizierung und zur Sammlung von Feedback von den Nutzern, um kontinuierliche Verbesserungen zu ermöglichen.
+\end{enumerate}
+Diese detaillierte Betrachtung der technischen Umsetzung, programmatischen Konfiguration in Moodle und Gestaltung der Zertifizierung stellt sicher, dass das Projekt erfolgreich realisiert und die Anforderungen der Stakeholder erfüllt werden.
 
 
-% In Unternehmen werden Schnittstellen zwischen verschiedenen Projekten durch den Einsatz eines Projektportfolio-Managements überwacht und dirigiert.
-% \footcite[Vgl.][S. 356 f.]{bilginHandlingProjectDependencies2017}
-% Die Einflüsse der anderen Projekte werden offensichtlich, wenn die Abhängigkeiten, welche durch die Aufgabengebiete definiert sind,
-% dargestellt werden. Diese Einflüsse können, wie im Kapitel Risiko erläutert, überaus Einfluss auf die Qualität und die Zeitplanung des Projektes haben.
-% Um diesen Einfluss darstellen zu können, wird die Kontextebene des C4-Modells verwendet, um einen Überblick über die Schnittstellen zu erhalten.
-% \begin{figure}[H]
-%     \centering
-%     \includegraphics[width=1\linewidth]{graphics/rapla_model.png}
-%     \caption{Schnittstellen im vorliegenden Projekt.}\label{abb:zeitplanung}
-% \end{figure}
-% Wie an diesem Modell sichtbar, gibt es für dieses Projekt (Team drei) 
-% hauptsächlich eine direkte Abhängigkeit zu den Teams vier und fünf, da die
-% Zertifizierung bestenfalls neue Funktionen von \ac{RAPLA} berücksichtigt und prüft. Allerdings
-% gibt es auch eine indirekte Schnittstelle zu Team zwei, da diese ihre lebendige Dokumentation
-% auf den gleichen Quellen (\ac{RAPLA} und \ac{RAPLA} Schulungsunterlagen) aufbaut. Durch klare Absprache
-% können Mehrarbeit und Dopplungen vermieden werden.
-
-% Aufbauend auf diesen Schnittstellen wird für die Zukunft folgende Zusammenarbeits-Maxime definiert: 
-% Die Entwicklung der Teams vier und fünf werden verfolgt und es werden bereits vor deren Fertigstellung Platzhalter
-% in der Zertifizierung geschaffen, um die Entwicklungen direkt nach ihrer Fertigstellung gegebenenfalls in die
-% Zertifizierung aufnehmen zu können (soweit sie auch von den Schulungsunterlagen aufgenommen werden).
-% Während sich die Interaktion mit den Teams Teams vier und fünf eher auf die zweite Hälfte des Projektes
-% beziehen wird, besteht das Absprache-Potenzial mit Team zwei von Beginn an. Daher werden regelmäßige Absprachen
-% sowie ein Austausch von Informationen geplant. Zusätzlich werden außerplanmäßige Treffen bei der Koordination
-% von bestimmten Arbeitspaketen oder zu besonderen Anlässen wie Rücksprachen mit den Stakeholdern stattfinden.
