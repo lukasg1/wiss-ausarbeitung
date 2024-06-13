@@ -34,5 +34,5 @@
 \contentsline {section}{\numberline {7.2}Kritische Reflexion der Ergebnisse}{8}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Implikationen für Theorie und Praxis}{8}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Ausblick}{8}{section.7.4}%
-\contentsline {chapter}{Anhang}{10}{chapter*.4}%
-\contentsline {chapter}{Literaturverzeichnis}{12}{section*.8}%
+\contentsline {chapter}{Anhang}{9}{chapter*.4}%
+\contentsline {chapter}{Literaturverzeichnis}{11}{section*.8}%
