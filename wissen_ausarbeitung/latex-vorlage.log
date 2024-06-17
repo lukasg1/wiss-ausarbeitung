@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.6)  17 JUN 2024 13:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.6)  17 JUN 2024 13:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -844,7 +844,15 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'latex-vorlage.bbl' found.
- (latex-vorlage.bbl)
+ (latex-vorlage.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                stoegerWirksamesProjektmanagementMit2019
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 13.
 Package biblatex Info: Reference segment=0 on input line 13.
 Package hyperref Info: Link coloring OFF on input line 13.
@@ -891,12 +899,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [3] (includes/abkuerzungen.tex
 
-LaTeX Warning: Hyper reference `acro:DHBW' on page IV undefined on input line 6.
-
-
-LaTeX Warning: Hyper reference `acro:DHBW' on page IV undefined on input line 6.
-
-
 LaTeX Warning: Hyper reference `acro:DIN' on page IV undefined on input line 7.
 
 
@@ -925,12 +927,6 @@ LaTeX Warning: Hyper reference `acro:RACI' on page IV undefined on input line 11
 
 
 LaTeX Warning: Hyper reference `acro:RACI' on page IV undefined on input line 11.
-
-
-LaTeX Warning: Hyper reference `acro:RAPLA' on page IV undefined on input line 12.
-
-
-LaTeX Warning: Hyper reference `acro:RAPLA' on page IV undefined on input line 12.
 
 ) [4
 
@@ -949,21 +945,42 @@ LaTeX Warning: Hyper reference `acro:RAPLA' on page IV undefined on input line 1
 
 ] (includes/01_einleitung.tex
 chapter 1.
-) (includes/02_theorie.tex [1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+Package acronym Info: Label `acro:RAPLA' newly defined as it shall be overridden
+although it is yet undefined on input line 32.
+Package acronym Info: Label `acro:DHBW' newly defined as it shall be overridden
+although it is yet undefined on input line 32.
+[1
 
 
 
 ]
+Package acronym Info: Label `acro:SLA' newly defined as it shall be overridden
+although it is yet undefined on input line 66.
+
+
+Package acronym Warning: Acronym `SLA' is not defined on input line 66.
+
+
+Package acronym Warning: Acronym `SLA' is not defined on input line 66.
+
+
+Package acronym Warning: Acronym `SLA' is not defined on input line 90.
+
+) (includes/02_theorie.tex [2] [3]
 chapter 2.
-) (includes/03_projektbeschreibung.tex [2
+) (includes/03_projektbeschreibung.tex [4
 
 ]
 chapter 3.
-[3
+[5
 
-]) (includes/04_konzeption.tex [4]
+]) (includes/04_konzeption.tex [6]
 chapter 4.
-) (includes/05_umsetzung.tex [5
+) (includes/05_umsetzung.tex [7
 
 ]
 chapter 5.
@@ -975,33 +992,33 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 20.
 
-[6
+[8
 
-]) (includes/06_erprobung.tex [7]
+]) (includes/06_erprobung.tex [9]
 chapter 6.
-) (includes/07_diskussion.tex [8
+) (includes/07_diskussion.tex [10
 
 ]
 chapter 7.
-) (includes/anhang.tex [9
+) (includes/anhang.tex [11
 
 ] (latex-vorlage.app)
 \tf@app=\write8
 \openout8 = `latex-vorlage.app'.
 
- [10
+ [12
 
 ]
-<graphics/pr_ve.png, id=178, 455.7025pt x 428.60126pt>
+<graphics/pr_ve.png, id=231, 455.7025pt x 428.60126pt>
 File: graphics/pr_ve.png Graphic file (type png)
 <use graphics/pr_ve.png>
 Package pdftex.def Info: graphics/pr_ve.png  used on input line 17.
 (pdftex.def)             Requested size: 364.19667pt x 342.54138pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 20.
- (C:\Users\David\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+
+
+LaTeX Warning: Citation 'stoegerWirksamesProjektmanagementMit2019' on page 13 undefined on input line 20.
+
+(C:\Users\David\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) (C:\Users\David\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
 File: lstlang2.sty 2023/02/27 1.9 listings language file
@@ -1021,7 +1038,7 @@ File: lstlang2.sty 2023/02/27 1.9 listings language file
 File: lstlang3.sty 2023/02/27 1.9 listings language file
 ) (C:\Users\David\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-)) [11
+)) [13
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) has been already used, duplicate ignored
@@ -1032,7 +1049,12 @@ l.70 \clearpage
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 71.
  (C:\Users\David\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [12
+)
+Overfull \hbox (36.6053pt too wide) in paragraph at lines 71--71
+\T1/cmtt/m/n/10.95 ist . psu . edu / document ? repid = rep1 & type = pdf & doi = 8e0f8a6e266db7eb5f6a1be5384ea4bbae0e123e$[]
+ []
+
+[14
 
 
 ] (latex-vorlage.aux)
@@ -1051,17 +1073,17 @@ Package logreq Info: Writing requests to 'latex-vorlage.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27041 strings out of 474486
- 549282 string characters out of 5743756
+ 27124 strings out of 474486
+ 551443 string characters out of 5743756
  1943542 words of memory out of 5000000
- 48855 multiletter control sequences out of 15000+600000
- 574210 words of font info for 65 fonts, out of 8000000 for 9000
+ 48921 multiletter control sequences out of 15000+600000
+ 575675 words of font info for 67 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,17n,107p,11009b,2369s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk>
-Output written on latex-vorlage.pdf (18 pages, 606364 bytes).
+ <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk>
+Output written on latex-vorlage.pdf (20 pages, 666475 bytes).
 PDF statistics:
- 758 PDF objects out of 1000 (max. 8388607)
- 84 named destinations out of 1000 (max. 500000)
+ 956 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
  302 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -80,7 +80,7 @@
       <file>latex-vorlage.bcf</file>
     </requires>
     <requires type="editable">
-      <file>includes/literatur.bib</file>
+      <file>includes/Wiss-Ausarbeitung.bib</file>
     </requires>
   </external>
 </requests>

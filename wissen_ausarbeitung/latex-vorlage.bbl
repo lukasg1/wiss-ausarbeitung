@@ -19,54 +19,405 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{stoegerWirksamesProjektmanagementMit2019}{book}{}
+    \entry{huangEmpoweringEndUsers1998}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=93cbdeb25553674b75a2ba37530db248}{%
-           family={Stöger},
-           familyi={S\bibinitperiod},
-           given={Roman},
-           giveni={R\bibinitperiod},
+        {{un=0,uniquepart=base,hash=0cfa80a96ca9c2b750108927b25d071e}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Albert\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Schäffer-Poeschel}%
+        {Taylor \& Francis}%
       }
-      \strng{namehash}{93cbdeb25553674b75a2ba37530db248}
-      \strng{fullhash}{93cbdeb25553674b75a2ba37530db248}
-      \strng{bibnamehash}{93cbdeb25553674b75a2ba37530db248}
-      \strng{authorbibnamehash}{93cbdeb25553674b75a2ba37530db248}
-      \strng{authornamehash}{93cbdeb25553674b75a2ba37530db248}
-      \strng{authorfullhash}{93cbdeb25553674b75a2ba37530db248}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \strng{namehash}{0cfa80a96ca9c2b750108927b25d071e}
+      \strng{fullhash}{0cfa80a96ca9c2b750108927b25d071e}
+      \strng{bibnamehash}{0cfa80a96ca9c2b750108927b25d071e}
+      \strng{authorbibnamehash}{0cfa80a96ca9c2b750108927b25d071e}
+      \strng{authornamehash}{0cfa80a96ca9c2b750108927b25d071e}
+      \strng{authorfullhash}{0cfa80a96ca9c2b750108927b25d071e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Online end-user training offers the flexibility and cost efficiency of computer-based training and the individual attention and support of instructor-guided training. At the same time, it continuously empowers end users by providing them with more up-to-date knowledge and decision-making authority over their own training.}
+      \field{day}{1}
+      \field{issn}{1058-0530}
+      \field{journaltitle}{Information Systems Management}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Empowering {{End Users Through Online Training}}}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{15}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{83\bibrangedash 86}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1201/1078/43184.15.2.19980301/31125.14
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1201/1078/43184.15.2.19980301/31125.14
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1201/1078/43184.15.2.19980301/31125.14
+      \endverb
+    \endentry
+    \entry{larsenEffectsTestenhancedLearning2015}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d400745c3a57c1054921d9b2842f9237}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={Douglas\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12c80af7c10b3831135950e8a683817b}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14829924d16ed2437aff038fba5804ef}{%
+           family={Aung},
+           familyi={A\bibinitperiod},
+           given={Wint\bibnamedelima Y.},
+           giveni={W\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27d0eb23ab67e78faeea8c1b8a41a144}{%
+           family={Corboy},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d02f51b4a5f07bf20e719bf866000b5d}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Deborah\bibnamedelima I.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44be0c74bce691c552349cec436a6009}{%
+           family={Sperling},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb2d9cfa918f67a9f9bb33ab974a7767}
+      \strng{fullhash}{0e3e5511fcbb650b85cb2888ccf98713}
+      \strng{bibnamehash}{0e3e5511fcbb650b85cb2888ccf98713}
+      \strng{authorbibnamehash}{0e3e5511fcbb650b85cb2888ccf98713}
+      \strng{authornamehash}{fb2d9cfa918f67a9f9bb33ab974a7767}
+      \strng{authorfullhash}{0e3e5511fcbb650b85cb2888ccf98713}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective: We measured the long-term retention of knowledge gained through selected American Academy of Neurology annual meeting courses and compared the effects of repeated quizzing (known as test-enhanced learning) and repeated studying on that retention. Methods: Participants were recruited from 4 annual meeting courses. All participants took a pretest. This randomized, controlled trial utilized a within-subjects design in which each participant experienced 3 different postcourse activities with each activity performed on different material. Each key information point from the course was randomized in a counterbalanced fashion among participants to one of the 3 activities: repeated short-answer quizzing, repeated studying, and no further exposure to the materials. A final test covering all information points from the course was taken 5.5 months after the course. Results: Thirty-five participants across the 4 courses completed the study. Average score on the pretest was 36\%. Performance on the final test showed that repeated quizzing led to significantly greater long-term retention relative to both repeated studying (55\% vs 46\%; t[34] 5 3.28, SEM 5 0.03, p 5 0.01, d 5 0.49) and no further exposure (55\% vs 44\%; t[34] 5 3.16, SEM 5 0.03, p 5 0.01, d 5 0.58). Relative to the pretest baseline, repeated quizzing helped participants to retain almost twice as much of the knowledge acquired from the course compared to repeated studying or no further exposure. Conclusions: Whereas annual meeting continuing medical education (CME) courses lead to longterm gains in knowledge, when repeated quizzing is added, retention is significantly increased. CME planners may consider adding repeated quizzing to increase the impact of their courses. Neurology® 2015;84:748–754}
+      \field{day}{17}
+      \field{issn}{0028-3878, 1526-632X}
+      \field{journaltitle}{Neurology}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{7}
+      \field{shortjournal}{Neurology}
+      \field{title}{The Effects of Test-Enhanced Learning on Long-Term Retention in {{AAN}} Annual Meeting Courses}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{84}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{748\bibrangedash 754}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1212/WNL.0000000000001264
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/279PVBZM/Larsen et al. - 2015 - The effects of test-enhanced learning on long-term.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.neurology.org/doi/10.1212/WNL.0000000000001264
+      \endverb
+      \verb{url}
+      \verb https://www.neurology.org/doi/10.1212/WNL.0000000000001264
+      \endverb
+    \endentry
+    \entry{leeEmpiricalStudyRelationships1995}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=7bc70b16bd15815a40f47c136efa5cfa}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sang\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c5a63084f4514e2c591761c65a8b85be}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yeong\bibnamedelima R.},
+           giveni={Y\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=087e0d0539871e64d96e10b31916e31c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jaejung},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{843d72f96f17cf214e6626062e9e01ba}
+      \strng{fullhash}{843d72f96f17cf214e6626062e9e01ba}
+      \strng{bibnamehash}{843d72f96f17cf214e6626062e9e01ba}
+      \strng{authorbibnamehash}{843d72f96f17cf214e6626062e9e01ba}
+      \strng{authornamehash}{843d72f96f17cf214e6626062e9e01ba}
+      \strng{authorfullhash}{843d72f96f17cf214e6626062e9e01ba}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With the advent of powerful microcomputers and software, end-user computing has become an important competitive weapon for organizations. However, little is known about what factors should be considered in designing end-user training programs. This empirical study investigates the factors that are essential for successful end-user training. The study results indicate both the importance of end-user information system (IS) acceptance and the strong relationships among end-user IS acceptance, end-user IS satisfaction, and end-user job satisfaction.}
+      \field{day}{1}
+      \field{issn}{0742-1222}
+      \field{journaltitle}{Journal of Management Information Systems}
+      \field{month}{9}
+      \field{number}{2}
+      \field{title}{An {{Empirical Study}} of the {{Relationships}} among {{End-User Information Systems Acceptance}}, {{Training}}, and {{Effectiveness}}}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{189\bibrangedash 202}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/07421222.1995.11518086
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/07421222.1995.11518086
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/07421222.1995.11518086
+      \endverb
+      \keyw{end-user computing,end-user training,user satisfaction}
+    \endentry
+    \entry{maurerEQuizSimpleTool2007}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6618bd327022793363d219ac67521a2c}{%
+           family={Maurer},
+           familyi={M\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85bdf2e5a52763689cbe23e8ebe66bdb}{%
+           family={Schinagl},
+           familyi={S\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e2ab5606f2d31d89b0111930afb08d4f}
+      \strng{fullhash}{e2ab5606f2d31d89b0111930afb08d4f}
+      \strng{bibnamehash}{e2ab5606f2d31d89b0111930afb08d4f}
+      \strng{authorbibnamehash}{e2ab5606f2d31d89b0111930afb08d4f}
+      \strng{authornamehash}{e2ab5606f2d31d89b0111930afb08d4f}
+      \strng{authorfullhash}{e2ab5606f2d31d89b0111930afb08d4f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It has become increasingly necessary to motivate and actively involve users to provide quality feedback for the development of future versions of applications and services within whatever institution is at issue. For this purpose we have developed an E-Quiz game to accelerate the process of learning, understanding and the successful usage of new technologies and applications. The E-Quiz is based on a simple content management system where questions and answers can be defined, personal and organisational data can be stored and a rule system on performance scores can be executed. E-Quiz games are an integrated part within a new IT marketing strategy including internal eCommunity systems, which have evolved over the past few years in response to decreasing user acceptance caused by new applications and technologies. E-Quiz games are not limited to IT content and will be applied in the future to affirm general intra-organisational knowledge dissemination.}
+      \field{langid}{english}
+      \field{title}{E-{{Quiz}} - {{A Simple Tool}} to {{Enhance Intra-Organisational Knowledge Management}}, {{eLearning}} and {{Edutainment Training}}}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/MKGPSZJH/Maurer und Schinagl - E-Quiz - A Simple Tool to Enhance Intra-Organisati.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8e0f8a6e266db7eb5f6a1be5384ea4bbae0e123e
+      \endverb
+      \verb{url}
+      \verb https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8e0f8a6e266db7eb5f6a1be5384ea4bbae0e123e
+      \endverb
+    \endentry
+    \entry{paaERPEndUserTrainingELearning2014}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5eeb9cc0da1e92a7b7931e65d40c01db}{%
+           family={Paa},
+           familyi={P\bibinitperiod},
+           given={Lukas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15be2accb25d584bd051c195b7adc1fc}{%
+           family={Piazolo},
+           familyi={P\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=15be2accb25d584bd051c195b7adc1fc}{%
+           family={Piazolo},
+           familyi={P\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4fea700d0159ed5bda19febd84335a11}{%
+           family={Felderer},
+           familyi={F\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{2db591ad1f4df8559415ff54eddc3deb}
+      \strng{fullhash}{2db591ad1f4df8559415ff54eddc3deb}
+      \strng{bibnamehash}{2db591ad1f4df8559415ff54eddc3deb}
+      \strng{authorbibnamehash}{2db591ad1f4df8559415ff54eddc3deb}
+      \strng{authornamehash}{2db591ad1f4df8559415ff54eddc3deb}
+      \strng{authorfullhash}{2db591ad1f4df8559415ff54eddc3deb}
+      \strng{editorbibnamehash}{8cbbfb09109a5debafb2f2c827503b92}
+      \strng{editornamehash}{8cbbfb09109a5debafb2f2c827503b92}
+      \strng{editorfullhash}{8cbbfb09109a5debafb2f2c827503b92}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{isbn}{978-3-7910-4328-9}
-      \field{langid}{ngerman}
-      \field{shorttitle}{Wirksames Projektmanagement}
-      \field{title}{Wirksames Projektmanagement: Mit dem Project Model Canvas zu Resultaten}
-      \field{urlday}{9}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2019}
+      \field{abstract}{End-user training (EUT) plays an important role in enterprise resource planning (ERP) implementations and successful operations. Nowadays, most EUT is conducted with the support of digital media. In this study we investigated the impact of the amount of time spent by learners on different content types, namely media enriched text and video screenings, on acquired factual and conceptual knowledge as well as acquired skills concerning the ERP system. Findings show that more is not categorically better.}
+      \field{booktitle}{Novel {{Methods}} and {{Technologies}} for {{Enterprise Information Systems}}}
+      \field{isbn}{978-3-319-07054-4 978-3-319-07055-1}
+      \field{langid}{english}
+      \field{shorttitle}{{{ERP-End-User Training Through E-Learning}}}
+      \field{title}{{{ERP-End-User Training Through E-Learning}}: {{What Should}} the {{User Focus On}}?}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{2014}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \field{pages}{147\bibrangedash 160}
+      \range{pages}{14}
       \verb{doi}
-      \verb 10.34156/9783791043289
+      \verb 10.1007/978-3-319-07055-1_13
       \endverb
       \verb{file}
-      \verb /Users/lukas/Zotero/storage/BF8KL557/Stöger - 2019 - Wirksames Projektmanagement Mit dem Project Model.pdf
+      \verb /Users/lukas/Zotero/storage/UATTKK23/Paa und Piazolo - 2014 - ERP-End-User Training Through E-Learning What Sho.pdf
       \endverb
       \verb{urlraw}
-      \verb https://elibrary.vahlen.de/index.php?doi=10.34156/9783791043289
+      \verb https://link.springer.com/10.1007/978-3-319-07055-1_13
       \endverb
       \verb{url}
-      \verb https://elibrary.vahlen.de/index.php?doi=10.34156/9783791043289
+      \verb https://link.springer.com/10.1007/978-3-319-07055-1_13
       \endverb
     \endentry
+    \entry{yangTestingQuizzingBoosts2021}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cae6411a4281409f1389ac511f43eca4}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chunliang},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a8ca6d21e2825394a364a1852246e91}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e52d60f28045edad7ca66e70990bfaa1}{%
+           family={Vadillo},
+           familyi={V\bibinitperiod},
+           given={Miguel\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24eff9d30b3b99ed9c566da4898cc2f9}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Rongjun},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90af7950b1e39366bd9e471daf89e98b}{%
+           family={Shanks},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {US}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{73b24398840e8de9de0dab3f4fada3f2}
+      \strng{fullhash}{06c34c45107dfa4f661e16c48ef4a524}
+      \strng{bibnamehash}{06c34c45107dfa4f661e16c48ef4a524}
+      \strng{authorbibnamehash}{06c34c45107dfa4f661e16c48ef4a524}
+      \strng{authornamehash}{73b24398840e8de9de0dab3f4fada3f2}
+      \strng{authorfullhash}{06c34c45107dfa4f661e16c48ef4a524}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Over the last century hundreds of studies have demonstrated that testing is an effective intervention to enhance long-term retention of studied knowledge and facilitate mastery of new information, compared with restudying and many other learning strategies (e.g., concept mapping), a phenomenon termed the testing effect. How robust is this effect in applied settings beyond the laboratory? The current review integrated 48,478 students’ data, extracted from 222 independent studies, to investigate the magnitude, boundary conditions, and psychological underpinnings of test-enhanced learning in the classroom. The results show that overall testing (quizzing) raises student academic achievement to a medium extent (g = 0.499). The magnitude of the effect is modulated by a variety of factors, including learning strategy in the control condition, test format consistency, material matching, provision of corrective feedback, number of test repetitions, test administration location and timepoint, treatment duration, and experimental design. The documented findings support 3 theories to account for the classroom testing effect: additional exposure, transfer-appropriate processing, and motivation. In addition to their implications for theory development, these results have practical significance for enhancing teaching practice and guiding education policy and highlight important directions for future research. (PsycInfo Database Record (c) 2022 APA, all rights reserved)}
+      \field{issn}{1939-1455}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{number}{4}
+      \field{shorttitle}{Testing (Quizzing) Boosts Classroom Learning}
+      \field{title}{Testing (Quizzing) Boosts Classroom Learning: {{A}} Systematic and Meta-Analytic Review}
+      \field{urlday}{12}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{147}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{399\bibrangedash 435}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1037/bul0000309
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/47F8LYHI/doiLanding.html
+      \endverb
+      \verb{urlraw}
+      \verb https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000309
+      \endverb
+      \verb{url}
+      \verb https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000309
+      \endverb
+      \keyw{Academic Achievement,Academic Achievement Motivation,Classrooms,Learning,Learning Strategies,Motivation,School Learning,Testing,Transfer (Learning)}
+    \endentry
   \enddatalist
+  \missing{stoegerWirksamesProjektmanagementMit2019}
 \endrefsection
 \endinput
 

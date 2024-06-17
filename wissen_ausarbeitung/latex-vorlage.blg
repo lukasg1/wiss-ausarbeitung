@@ -1,15 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'latex-vorlage.blg'
-[153] biber-MSWIN64:340> INFO - === 
-[207] Biber.pm:419> INFO - Reading 'latex-vorlage.bcf'
-[365] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
-[392] Biber.pm:4419> INFO - Processing section 0
-[415] Biber.pm:4610> INFO - Looking for bibtex file 'includes/literatur.bib' for section 0
-[490] bibtex.pm:1713> INFO - LaTeX decoding ...
-[600] bibtex.pm:1519> INFO - Found BibTeX data source 'includes/literatur.bib'
-[691] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[692] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[692] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
-[692] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[701] bbl.pm:660> INFO - Writing 'latex-vorlage.bbl' with encoding 'UTF-8'
-[702] bbl.pm:763> INFO - Output to latex-vorlage.bbl
+[156] biber-MSWIN64:340> INFO - === 
+[211] Biber.pm:419> INFO - Reading 'latex-vorlage.bcf'
+[347] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
+[369] Biber.pm:4419> INFO - Processing section 0
+[389] Biber.pm:4610> INFO - Looking for bibtex file 'includes/Wiss-Ausarbeitung.bib' for section 0
+[448] bibtex.pm:1713> INFO - LaTeX decoding ...
+[475] bibtex.pm:1519> INFO - Found BibTeX data source 'includes/Wiss-Ausarbeitung.bib'
+[564] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[564] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[564] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[564] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[576] bbl.pm:660> INFO - Writing 'latex-vorlage.bbl' with encoding 'UTF-8'
+[586] bbl.pm:763> INFO - Output to latex-vorlage.bbl
+[586] Biber.pm:131> WARN - ISBN '978-3-319-07054-4 978-3-319-07055-1' in entry 'paaERPEndUserTrainingELearning2014' is invalid - run biber with '--validate_datamodel' for details.
+[587] Biber.pm:131> WARN - I didn't find a database entry for 'stoegerWirksamesProjektmanagementMit2019' (section 0)
+[587] Biber.pm:133> INFO - WARNINGS: 2
