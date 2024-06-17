@@ -12,7 +12,7 @@
 \contentsline {section}{\numberline {2.1}E-Learning und digitale Wissensvermittlung}{2}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Didaktische Konzepte für die Wissensquiz-Erstellung}{2}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Zertifizierungen als Erfolgsfaktor}{2}{section.2.3}%
-\contentsline {section}{\numberline {2.4}RAPLA 2.0 als Prüfungsgegenstand}{2}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Gestaltung von Usability-Tests}{2}{section.2.4}%
 \contentsline {chapter}{\numberline {3}Projektbeschreibung}{3}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Ausgangslage und Problemstellung}{3}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Anforderungen an das Quiz}{3}{section.3.2}%
@@ -23,16 +23,16 @@
 \contentsline {section}{\numberline {4.3}Darlegung des Prüf- und Freigabeprozesses}{5}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Technische Umsetzung}{6}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Anforderungen und Rahmenbedingungen}{6}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Programmatische Konfiguration in Moodle}{6}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Gestaltung der Zertifizierung}{6}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Erprobung und Evaluation}{7}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Erprobung durch die Zielgruppe}{7}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Analyse der Erprobungsresultate}{7}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Ableitung von Optimierungsmaßnahmen}{7}{section.6.3}%
-\contentsline {chapter}{\numberline {7}Ergebnisdiskussion}{8}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Auftrag des Projektes}{8}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Kritische Reflexion der Ergebnisse}{8}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Implikationen für Theorie und Praxis}{8}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Ausblick}{8}{section.7.4}%
-\contentsline {chapter}{Anhang}{9}{chapter*.4}%
-\contentsline {chapter}{Literaturverzeichnis}{11}{section*.8}%
+\contentsline {section}{\numberline {5.2}Programmatische Konfiguration in Moodle \color {red} (noch überarbeiten)}{6}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Gestaltung der Zertifizierung \color {red} (noch überarbeiten)}{7}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Erprobung und Evaluation}{8}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Erprobung durch die Zielgruppe}{8}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Analyse der Erprobungsresultate}{8}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Ableitung von Optimierungsmaßnahmen}{8}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Ergebnisdiskussion}{9}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Auftrag des Projektes}{9}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Kritische Reflexion der Ergebnisse}{9}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Implikationen für Theorie und Praxis}{9}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Ausblick}{9}{section.7.4}%
+\contentsline {chapter}{Anhang}{10}{chapter*.4}%
+\contentsline {chapter}{Literaturverzeichnis}{12}{section*.8}%

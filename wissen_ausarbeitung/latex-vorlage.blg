@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'latex-vorlage.blg'
-[146] biber-MSWIN64:340> INFO - === 
-[188] Biber.pm:419> INFO - Reading 'latex-vorlage.bcf'
-[295] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
-[314] Biber.pm:4419> INFO - Processing section 0
-[331] Biber.pm:4610> INFO - Looking for bibtex file 'includes/literatur.bib' for section 0
-[389] bibtex.pm:1713> INFO - LaTeX decoding ...
-[479] bibtex.pm:1519> INFO - Found BibTeX data source 'includes/literatur.bib'
-[566] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[566] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[566] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
-[566] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[576] bbl.pm:660> INFO - Writing 'latex-vorlage.bbl' with encoding 'UTF-8'
-[576] bbl.pm:763> INFO - Output to latex-vorlage.bbl
+[260] biber-MSWIN64:340> INFO - === 
+[346] Biber.pm:419> INFO - Reading 'latex-vorlage.bcf'
+[459] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[479] Biber.pm:4419> INFO - Processing section 0
+[516] Biber.pm:4610> INFO - Looking for bibtex file 'includes/literatur.bib' for section 0
+[605] bibtex.pm:1713> INFO - LaTeX decoding ...
+[704] bibtex.pm:1519> INFO - Found BibTeX data source 'includes/literatur.bib'
+[860] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[860] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[860] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[860] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[903] bbl.pm:660> INFO - Writing 'latex-vorlage.bbl' with encoding 'UTF-8'
+[904] bbl.pm:763> INFO - Output to latex-vorlage.bbl
