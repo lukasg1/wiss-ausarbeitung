@@ -336,6 +336,86 @@
       \verb https://link.springer.com/10.1007/978-3-319-07055-1_13
       \endverb
     \endentry
+    \entry{yangTestingQuizzingBoosts2021}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cae6411a4281409f1389ac511f43eca4}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chunliang},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a8ca6d21e2825394a364a1852246e91}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e52d60f28045edad7ca66e70990bfaa1}{%
+           family={Vadillo},
+           familyi={V\bibinitperiod},
+           given={Miguel\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24eff9d30b3b99ed9c566da4898cc2f9}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Rongjun},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90af7950b1e39366bd9e471daf89e98b}{%
+           family={Shanks},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {US}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{73b24398840e8de9de0dab3f4fada3f2}
+      \strng{fullhash}{06c34c45107dfa4f661e16c48ef4a524}
+      \strng{bibnamehash}{06c34c45107dfa4f661e16c48ef4a524}
+      \strng{authorbibnamehash}{06c34c45107dfa4f661e16c48ef4a524}
+      \strng{authornamehash}{73b24398840e8de9de0dab3f4fada3f2}
+      \strng{authorfullhash}{06c34c45107dfa4f661e16c48ef4a524}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Over the last century hundreds of studies have demonstrated that testing is an effective intervention to enhance long-term retention of studied knowledge and facilitate mastery of new information, compared with restudying and many other learning strategies (e.g., concept mapping), a phenomenon termed the testing effect. How robust is this effect in applied settings beyond the laboratory? The current review integrated 48,478 students’ data, extracted from 222 independent studies, to investigate the magnitude, boundary conditions, and psychological underpinnings of test-enhanced learning in the classroom. The results show that overall testing (quizzing) raises student academic achievement to a medium extent (g = 0.499). The magnitude of the effect is modulated by a variety of factors, including learning strategy in the control condition, test format consistency, material matching, provision of corrective feedback, number of test repetitions, test administration location and timepoint, treatment duration, and experimental design. The documented findings support 3 theories to account for the classroom testing effect: additional exposure, transfer-appropriate processing, and motivation. In addition to their implications for theory development, these results have practical significance for enhancing teaching practice and guiding education policy and highlight important directions for future research. (PsycInfo Database Record (c) 2022 APA, all rights reserved)}
+      \field{issn}{1939-1455}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{number}{4}
+      \field{shorttitle}{Testing (Quizzing) Boosts Classroom Learning}
+      \field{title}{Testing (Quizzing) Boosts Classroom Learning: {{A}} Systematic and Meta-Analytic Review}
+      \field{urlday}{12}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{147}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{399\bibrangedash 435}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1037/bul0000309
+      \endverb
+      \verb{file}
+      \verb /Users/lukas/Zotero/storage/47F8LYHI/doiLanding.html
+      \endverb
+      \verb{urlraw}
+      \verb https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000309
+      \endverb
+      \verb{url}
+      \verb https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000309
+      \endverb
+      \keyw{Academic Achievement,Academic Achievement Motivation,Classrooms,Learning,Learning Strategies,Motivation,School Learning,Testing,Transfer (Learning)}
+    \endentry
   \enddatalist
   \missing{stoegerWirksamesProjektmanagementMit2019}
 \endrefsection
