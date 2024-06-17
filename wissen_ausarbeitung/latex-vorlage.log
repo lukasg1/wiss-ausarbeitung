@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.6)  11 JUN 2024 19:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.6)  15 JUN 2024 18:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -967,24 +967,32 @@ chapter 4.
 
 ]
 chapter 5.
-) (includes/06_erprobung.tex [6
 
-]
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 12.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 20.
+
+[6
+
+]) (includes/06_erprobung.tex [7]
 chapter 6.
-) (includes/07_diskussion.tex [7
+) (includes/07_diskussion.tex [8
 
 ]
 chapter 7.
-) (includes/anhang.tex [8
+) (includes/anhang.tex [9
 
 ] (latex-vorlage.app)
 \tf@app=\write8
 \openout8 = `latex-vorlage.app'.
 
- [9
+ [10
 
 ]
-<graphics/pr_ve.png, id=162, 455.7025pt x 428.60126pt>
+<graphics/pr_ve.png, id=178, 455.7025pt x 428.60126pt>
 File: graphics/pr_ve.png Graphic file (type png)
 <use graphics/pr_ve.png>
 Package pdftex.def Info: graphics/pr_ve.png  used on input line 17.
@@ -1013,7 +1021,7 @@ File: lstlang2.sty 2023/02/27 1.9 listings language file
 File: lstlang3.sty 2023/02/27 1.9 listings language file
 ) (C:\Users\David\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-)) [10
+)) [11
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) has been already used, duplicate ignored
@@ -1024,7 +1032,7 @@ l.70 \clearpage
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 71.
  (C:\Users\David\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [11
+) [12
 
 
 ] (latex-vorlage.aux)
@@ -1043,17 +1051,17 @@ Package logreq Info: Writing requests to 'latex-vorlage.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27025 strings out of 474486
- 549123 string characters out of 5743756
+ 27041 strings out of 474486
+ 549282 string characters out of 5743756
  1943542 words of memory out of 5000000
- 48852 multiletter control sequences out of 15000+600000
+ 48855 multiletter control sequences out of 15000+600000
  574210 words of font info for 65 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,17n,107p,11009b,2369s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\David\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk>
-Output written on latex-vorlage.pdf (17 pages, 599035 bytes).
+Output written on latex-vorlage.pdf (18 pages, 606364 bytes).
 PDF statistics:
- 734 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
+ 758 PDF objects out of 1000 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
  302 words of extra memory for PDF output out of 10000 (max. 10000000)
 
