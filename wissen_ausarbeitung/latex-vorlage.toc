@@ -10,29 +10,30 @@
 \contentsline {section}{\numberline {1.5}Aufbau der Arbeit}{2}{section.1.5}%
 \contentsline {chapter}{\numberline {2}Theoretischer Hintergrund}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}E-Learning und digitale Wissensvermittlung}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Didaktische Konzepte für die Wissensquiz-Erstellung}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Zertifizierungen als Erfolgsfaktor}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Gestaltung von Usability-Tests}{4}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Projektbeschreibung}{5}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Ausgangslage und Problemstellung}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Anforderungen an das Quiz}{5}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Methodik und Vorgehensweise}{6}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Konzeption des Wissensquiz}{7}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Analyse der vorhandenen Schulungsunterlagen}{7}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Erstellung und Aufbau des Fragenkatalogs}{7}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Darlegung des Prüf- und Freigabeprozesses}{7}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Technische Umsetzung}{8}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Anforderungen und Rahmenbedingungen}{8}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Programmatische Konfiguration in Moodle \color {red} (noch überarbeiten)}{8}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Gestaltung der Zertifizierung \color {red} (noch überarbeiten)}{9}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Erprobung und Evaluation}{10}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Erprobung durch die Zielgruppe}{10}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Analyse der Erprobungsresultate}{10}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Ableitung von Optimierungsmaßnahmen}{10}{section.6.3}%
-\contentsline {chapter}{\numberline {7}Ergebnisdiskussion}{11}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Auftrag des Projektes}{11}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Kritische Reflexion der Ergebnisse}{11}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Implikationen für Theorie und Praxis}{11}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Ausblick}{11}{section.7.4}%
-\contentsline {chapter}{Anhang}{12}{chapter*.7}%
-\contentsline {chapter}{Literaturverzeichnis}{14}{section*.11}%
+\contentsline {section}{\numberline {2.2}Didaktische Konzepte für die Wissensquiz-Erstellung}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Zertifizierungen als Erfolgsfaktor}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Gestaltung von Usability-Tests}{8}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Projektbeschreibung}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Ausgangslage und Problemstellung}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Anforderungen an das Quiz}{10}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Methodik und Vorgehensweise}{11}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Konzeption des Wissensquiz}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Analyse der vorhandenen Schulungsunterlagen}{12}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Erstellung und Aufbau des Fragenkatalogs}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Darlegung des Prüfprozesses}{14}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Technische Umsetzung}{16}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Anforderungen und Rahmenbedingungen}{16}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Programmatische Konfiguration in Moodle \color {red} (noch überarbeiten)}{16}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Gestaltung der Zertifizierung \color {red} (noch überarbeiten)}{17}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Erprobung und Evaluation}{18}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Erprobung durch die Zielgruppe}{18}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Analyse der Erprobungsresultate}{19}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Ableitung von Optimierungsmaßnahmen}{20}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Weitere Optimierungsmaßnahmen}{21}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Ergebnisdiskussion}{22}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Auftrag des Projektes}{22}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Kritische Reflexion der Ergebnisse}{22}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Implikationen für Theorie und Praxis}{22}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Ausblick}{22}{section.7.4}%
+\contentsline {chapter}{Anhang}{23}{chapter*.7}%
+\contentsline {chapter}{Literaturverzeichnis}{24}{section*.9}%
